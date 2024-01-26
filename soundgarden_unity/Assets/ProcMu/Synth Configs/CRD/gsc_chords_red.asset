@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8fc679d2aa44edf9d867fad469e7cd1, type: 3}
+  m_Name: gsc_chords_red
+  m_EditorClassIdentifier: 
+  config:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0.20000000298023224
+  - 2
+  - 0.05999999865889549
+  - 0
+  - 0.5
+  - 3130
+  - 0.8899999856948853
+  - 4
+  - 0
+  - 4
+  - 0.10000000149011612
+  - 4
+  - 0
+  - 4
+  - 0.6019999980926514
+  - 0.6650000214576721
+  - 0.43700000643730164
+  - 0.2770000100135803
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
