@@ -86,4 +86,13 @@ namespace ProcMu.UnityScripts
         Lsystem,
         Perlin
     }
+
+    public enum ArpMode
+    {
+        Up,
+        Down,
+        UpAndDown,
+        DownAndUp,
+        Random
+    }
 }

@@ -12,10 +12,11 @@ namespace ProcMu.ScriptableObjects
     {
         public MelConfig[] instrument = new MelConfig[3];
         public RhythmParams[] rhythms = new RhythmParams[16];
+        public ArpMode[] arpModes = new ArpMode[16];
         public Lsys[] lsystems = new Lsys[16];
-        
+
         public PerConfig perConfig; //Configuration object for percussion
-        
+
         public int TotalSteps => barLength * bars;
 
         #region Global parameters
@@ -32,9 +33,6 @@ namespace ProcMu.ScriptableObjects
         public bool[] activeBars1 = new bool[64];
 
         #endregion
-        
-
-
 
         #region Percussion parameters
 

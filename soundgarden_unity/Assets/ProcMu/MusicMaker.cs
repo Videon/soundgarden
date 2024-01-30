@@ -11,9 +11,6 @@ using Random = UnityEngine.Random;
 public class MusicMaker : MonoBehaviour
 {
     [SerializeField] private AudioHelmClock clock;
-    [SerializeField] private HelmSequencer sequencerBass;
-    [SerializeField] private HelmSequencer sequencerDrone;
-    [SerializeField] private SampleSequencer sequencerPercussion;
     [SerializeField] private Sampler percussionSampler;
 
 
@@ -31,19 +28,12 @@ public class MusicMaker : MonoBehaviour
         Initialize();
     }
 
-    // Start is called before the first frame update
     void Start()
     {
-        //MakeMusic();
     }
 
     private void Initialize()
     {
-        sequencers.Clear();
-        sequencers.Add(sequencerBass);
-        sequencers.Add(sequencerDrone);
-        sequencers.Add(sequencerPercussion);
-
         clock.bpm = globalConfig.bpm;
 
         //initialize sequencers
@@ -56,14 +46,10 @@ public class MusicMaker : MonoBehaviour
     [Button]
     public void MakeMusic()
     {
-        //DRONE
-        MakeNotes(sequencerDrone, globalConfig, 0);
-
-        //BASS
-        MakeNotes(sequencerBass, globalConfig, 1);
-
-        //PERCUSSION
-        MakePercussion();
+        MakeNotes(sequencers[0], globalConfig, 0); //DRONE
+        MakeNotes(sequencers[1], globalConfig, 1); //BASS
+        MakeNotes(sequencers[2], globalConfig, 2); //MELODY
+        MakePercussion(); //PERCUSSION
     }
 
     public void MakeNotes(Sequencer sequencer, MuConfig config, int index)
@@ -109,7 +95,7 @@ public class MusicMaker : MonoBehaviour
     private void MakePercussion()
     {
         //Clear existing notes
-        sequencerPercussion.Clear();
+        sequencers[3].Clear();
 
         int root = 24;
 
@@ -128,7 +114,7 @@ public class MusicMaker : MonoBehaviour
         {
             for (int j = 0; j < notes[i].Count; j++)
             {
-                sequencerPercussion.AddNote(root + i, notes[i][j].start, notes[i][j].end, notes[i][j].velocity);
+                sequencers[3].AddNote(root + i, notes[i][j].start, notes[i][j].end, notes[i][j].velocity);
             }
         }
     }
