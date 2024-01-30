@@ -12,46 +12,133 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a868a37e677a4ffd9772fbe11c32c38, type: 3}
   m_Name: muc_default
   m_EditorClassIdentifier: 
-  bpm: 90
+  instrument:
+  - name: Drone
+    algo: 3
+    rootNote: 0
+    oct0: {x: 6, y: 7}
+    oct1: {x: 0, y: 0}
+  - name: Bass
+    algo: 3
+    rootNote: 0
+    oct0: {x: 3, y: 4}
+    oct1: {x: 0, y: 0}
+  - name: Melody
+    algo: 3
+    rootNote: 0
+    oct0: {x: 0, y: 0}
+    oct1: {x: 0, y: 0}
+  rhythms:
+  - Hits: 2
+    Rotation: 0
+    StepLength: 32
+  - Hits: 4
+    Rotation: 0
+    StepLength: 1
+  - Hits: 8
+    Rotation: 0
+    StepLength: 0
+  - Hits: 0
+    Rotation: 0
+    StepLength: 0
+  - Hits: 0
+    Rotation: 0
+    StepLength: 0
+  - Hits: 0
+    Rotation: 0
+    StepLength: 0
+  - Hits: 0
+    Rotation: 0
+    StepLength: 0
+  - Hits: 0
+    Rotation: 0
+    StepLength: 0
+  - Hits: 0
+    Rotation: 0
+    StepLength: 0
+  - Hits: 0
+    Rotation: 0
+    StepLength: 0
+  - Hits: 0
+    Rotation: 0
+    StepLength: 0
+  - Hits: 0
+    Rotation: 0
+    StepLength: 0
+  - Hits: 0
+    Rotation: 0
+    StepLength: 0
+  - Hits: 0
+    Rotation: 0
+    StepLength: 0
+  - Hits: 0
+    Rotation: 0
+    StepLength: 0
+  - Hits: 0
+    Rotation: 0
+    StepLength: 0
+  lsystems:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 3ea6d4452ccab404cab13c2d48f7aa34, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  perConfig: {fileID: 0}
+  bpm: 100
   bars: 4
   barLength: 16
   MuScale: {fileID: 0}
-  Scale: 9
+  Scale: 1
   activeBars0: 01010101010001000100010001000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   activeBars1: 01010101010101010101010101010101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-  droneAlgo: 0
-  drone_Oct0: {x: 4, y: 4}
-  drone_Oct1: {x: 4, y: 4}
-  bassAlgo: 0
-  bass_minOct0: 4
-  bass_maxOct0: 4
-  bass_minOct1: 4
-  bass_maxOct1: 4
   percussionParams:
   - Hits: 4
     Rotation: 0
+    StepLength: 0
   - Hits: 7
     Rotation: 0
+    StepLength: 0
   - Hits: 6
     Rotation: 0
+    StepLength: 0
   - Hits: 5
     Rotation: 0
+    StepLength: 0
   - Hits: 0
     Rotation: 0
+    StepLength: 0
   - Hits: 0
     Rotation: 0
+    StepLength: 0
   - Hits: 0
     Rotation: 0
+    StepLength: 0
   - Hits: 0
     Rotation: 0
+    StepLength: 0
   - Hits: 0
     Rotation: 0
+    StepLength: 0
   - Hits: 0
     Rotation: 0
+    StepLength: 0
   - Hits: 0
     Rotation: 0
+    StepLength: 0
   - Hits: 0
     Rotation: 0
+    StepLength: 0
   percussionSounds:
   - {fileID: 8300000, guid: e4dfe0d6a5d994262b4bf4b822cd1bd9, type: 3}
   - {fileID: 8300000, guid: 2622bfa81c43d40cdabc91fa1b97c8d3, type: 3}

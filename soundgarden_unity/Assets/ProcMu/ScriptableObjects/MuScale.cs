@@ -1,5 +1,6 @@
 using ProcMu.UnityScripts;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 namespace ProcMu.ScriptableObjects
 {
@@ -8,6 +9,6 @@ namespace ProcMu.ScriptableObjects
     {
         [SerializeField] public bool[] Scale = new bool[128];
         [HideInInspector] public int[] ScaleNotes = new int[128];
-        [SerializeField] public Tonic tonic;
+        [FormerlySerializedAs("tonic")] [SerializeField] public RootNote rootNote;
     }
 }

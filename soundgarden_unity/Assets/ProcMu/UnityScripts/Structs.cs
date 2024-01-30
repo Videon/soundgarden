@@ -20,9 +20,17 @@ namespace ProcMu.UnityScripts
     }
 
     [Serializable]
-    public struct PercussionParams
+    public struct RhythmParams
     {
         public int Hits;
         public int Rotation;
+        public int StepLength;
+    }
+
+    [Serializable]
+    public struct LsysRule
+    {
+        public char a;
+        public string b;
     }
 }

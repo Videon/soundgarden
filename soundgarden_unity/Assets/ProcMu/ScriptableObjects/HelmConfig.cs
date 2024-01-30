@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace ProcMu.ScriptableObjects
 {
-    [CreateAssetMenu(fileName = "gsc_", menuName = "ProcMu/Game synth configuration", order = 1)]
+    [CreateAssetMenu(fileName = "hc_", menuName = "ProcMu/Helm synth configuration", order = 1)]
     public class HelmConfig : ScriptableObject
     {
         private HelmPatch h;

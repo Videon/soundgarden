@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using ProcMu.UnityScripts;
 using Unity.VisualScripting;
@@ -9,6 +10,12 @@ namespace ProcMu.ScriptableObjects
     [CreateAssetMenu(fileName = "muc_", menuName = "ProcMu/Music configuration", order = 1)]
     public class MuConfig : ScriptableObject
     {
+        public MelConfig[] instrument = new MelConfig[3];
+        public RhythmParams[] rhythms = new RhythmParams[16];
+        public Lsys[] lsystems = new Lsys[16];
+        
+        public PerConfig perConfig; //Configuration object for percussion
+        
         public int TotalSteps => barLength * bars;
 
         #region Global parameters
@@ -25,30 +32,14 @@ namespace ProcMu.ScriptableObjects
         public bool[] activeBars1 = new bool[64];
 
         #endregion
+        
 
-        #region Drone parameters
 
-        public GenAlgo droneAlgo;
-        public Vector2Int drone_Oct0;
-        public Vector2Int drone_Oct1;
-
-        #endregion
-
-        #region Bass parameters
-
-        public GenAlgo bassAlgo;
-
-        public int bass_minOct0;
-        public int bass_maxOct0;
-        public int bass_minOct1;
-        public int bass_maxOct1;
-
-        #endregion
 
         #region Percussion parameters
 
         //Euclidean rhythm parameter: total steps, hits, rotation
-        public PercussionParams[] percussionParams = new PercussionParams[12];
+        public RhythmParams[] percussionParams = new RhythmParams[12];
         public AudioClip[] percussionSounds = new AudioClip[12];
 
         #endregion

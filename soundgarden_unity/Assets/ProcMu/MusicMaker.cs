@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using AudioHelm;
 using NaughtyAttributes;
+using ProcMu.Generators;
 using ProcMu.ScriptableObjects;
 using ProcMu.UnityScripts;
 using UnityEngine;
@@ -22,6 +23,8 @@ public class MusicMaker : MonoBehaviour
 
     [SerializeField] private MuConfig globalConfig;
 
+    [SerializeField] private int currentStep;
+
     private void Awake()
     {
         //Then initialize everything
@@ -31,7 +34,7 @@ public class MusicMaker : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        MakeMusic();
+        //MakeMusic();
     }
 
     private void Initialize()
@@ -54,27 +57,48 @@ public class MusicMaker : MonoBehaviour
     public void MakeMusic()
     {
         //DRONE
-        MakeNotes(sequencerDrone, 1, 0, 64, 3, 3);
+        MakeNotes(sequencerDrone, globalConfig, 0);
 
         //BASS
-        MakeNotes(sequencerBass, 2, 0, 4, 3, 4);
+        MakeNotes(sequencerBass, globalConfig, 1);
 
         //PERCUSSION
         MakePercussion();
     }
 
-    public void MakeNotes(Sequencer sequencer, int notesAmt, int rotation, int stepLength, int minOct, int maxOct)
+    public void MakeNotes(Sequencer sequencer, MuConfig config, int index)
     {
         //Clear existing notes
         sequencer.Clear();
 
         List<Note> notes = new List<Note>();
-        notes = Euclid.MakeRhythm(globalConfig.TotalSteps, notesAmt, rotation, stepLength);
 
-        for (int i = 0; i < notes.Count; i++)
+        //Generate rhythm
+        notes = Euclid.MakeRhythm(globalConfig.TotalSteps, config.rhythms[index].Hits, config.rhythms[index].Rotation,
+            config.rhythms[index].StepLength);
+
+        //Make melody
+        switch (config.instrument[index].algo)
         {
-            notes[i].note = Random.Range(minOct, maxOct) * 12 + Scales.GetScaleRandom(globalConfig.Scale);
+            default:
+            case GenAlgo.Random:
+                for (int i = 0; i < notes.Count; i++)
+                {
+                    notes[i].note =
+                        Random.Range(config.instrument[index].oct0.x, config.instrument[index].oct0.y) * 12 +
+                        Scales.GetScaleRandom(globalConfig.Scale);
+                }
+
+                break;
+            case GenAlgo.Arpeggio:
+                break;
+            case GenAlgo.Lsystem:
+                break;
+            case GenAlgo.Perlin:
+                notes = Perlin.MakeNotes(notes, config, index);
+                break;
         }
+
 
         for (int i = 0; i < notes.Count; i++)
         {
@@ -95,7 +119,9 @@ public class MusicMaker : MonoBehaviour
         for (int i = 0; i < globalConfig.percussionParams.Length; i++)
         {
             percussionSampler.keyzones[i].audioClip = globalConfig.percussionSounds[i];
-            notes.Add(Euclid.MakeRhythm(globalConfig.TotalSteps, globalConfig.percussionParams[i].Hits * globalConfig.bars, globalConfig.percussionParams[i].Rotation, 1));
+            notes.Add(Euclid.MakeRhythm(globalConfig.TotalSteps,
+                globalConfig.percussionParams[i].Hits * globalConfig.bars, globalConfig.percussionParams[i].Rotation,
+                1));
         }
 
         for (int i = 0; i < globalConfig.percussionParams.Length; i++)
@@ -105,5 +131,11 @@ public class MusicMaker : MonoBehaviour
                 sequencerPercussion.AddNote(root + i, notes[i][j].start, notes[i][j].end, notes[i][j].velocity);
             }
         }
+    }
+
+    public void CountStep()
+    {
+        currentStep = (currentStep + 1) % globalConfig.TotalSteps;
+        if (currentStep == globalConfig.TotalSteps - 1) MakeMusic();
     }
 }

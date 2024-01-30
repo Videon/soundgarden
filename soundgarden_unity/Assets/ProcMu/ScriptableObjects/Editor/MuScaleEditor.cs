@@ -62,12 +62,12 @@ namespace ProcMu.CSUnity.Editor
         {
             EditorGUILayout.BeginHorizontal();
 
-            scale.tonic = (Tonic) EditorGUILayout.EnumPopup(scale.tonic);
-            _scale = (Scale) EditorGUILayout.EnumPopup(_scale);
+            scale.rootNote = (RootNote) EditorGUILayout.EnumPopup(scale.rootNote,GUILayout.Width(120f));
+            _scale = (Scale) EditorGUILayout.EnumPopup(_scale,GUILayout.Width(120f));
 
-            if (GUILayout.Button("Generate scale"))
+            if (GUILayout.Button("Generate scale",GUILayout.Width(120f)))
             {
-                ProcMuUtils.GenerateScale(scale.tonic, _scale, ref activeNotes);
+                ProcMuUtils.GenerateScale(scale.rootNote, _scale, ref activeNotes);
                 DrawScale(scale, activeNotes, arrlen);
             }
 

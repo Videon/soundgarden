@@ -1,18 +1,18 @@
 namespace ProcMu.UnityScripts
 {
-    public enum Tonic
+    public enum RootNote
     {
         C,
-        Cs,
+        CSharp,
         D,
-        Ds,
+        DSharp,
         E,
         F,
-        Fs,
+        FSharp,
         G,
-        Gs,
+        GSharp,
         A,
-        As,
+        ASharp,
         B
     }
 
@@ -83,6 +83,7 @@ namespace ProcMu.UnityScripts
     {
         Random,
         Arpeggio,
-        Lsystem
+        Lsystem,
+        Perlin
     }
 }

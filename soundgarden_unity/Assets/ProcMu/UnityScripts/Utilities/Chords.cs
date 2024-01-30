@@ -110,7 +110,7 @@ namespace ProcMu.UnityScripts.Utilities
             int[] triad = GetTriad(Random.Range(1, 8)); //Choose random triad, todo implement coherent succession
             int octave = Random.Range(octMin, octMax + 1);
 
-            int root = octave * 12 + (int) scale.tonic;
+            int root = octave * 12 + (int) scale.rootNote;
 
             int noteIndex = 0;
             for (int i = 0; i < scale.ScaleNotes.Length; i++)

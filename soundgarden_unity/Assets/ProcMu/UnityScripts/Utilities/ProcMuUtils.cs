@@ -84,7 +84,7 @@ namespace ProcMu.UnityScripts.Utilities
             return scaleB;
         }
 
-        public static void GenerateScale(Tonic t, Scale s, ref bool[] activeNotes)
+        public static void GenerateScale(RootNote t, Scale s, ref bool[] activeNotes)
         {
             activeNotes = new bool[activeNotes.Length]; //Reset array
 
@@ -192,7 +192,7 @@ namespace ProcMu.UnityScripts.Utilities
         {
             to.Scale = from.Scale;
             to.ScaleNotes = from.ScaleNotes;
-            to.tonic = from.tonic;
+            to.rootNote = from.rootNote;
         }
     }
 }
