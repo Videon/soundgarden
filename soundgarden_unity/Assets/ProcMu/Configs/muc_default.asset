@@ -15,26 +15,20 @@ MonoBehaviour:
   instrument:
   - name: Drone
     algo: 1
-    rootNote: 0
     oct0: {x: 6, y: 7}
-    oct1: {x: 0, y: 0}
   - name: Bass
     algo: 1
-    rootNote: 0
-    oct0: {x: 3, y: 4}
-    oct1: {x: 0, y: 0}
+    oct0: {x: 4, y: 4}
   - name: Melody
     algo: 1
-    rootNote: 0
     oct0: {x: 4, y: 5}
-    oct1: {x: 0, y: 0}
   rhythms:
   - Hits: 1
     Rotation: 0
     StepLength: 32
   - Hits: 4
     Rotation: 0
-    StepLength: 1
+    StepLength: 8
   - Hits: 16
     Rotation: 0
     StepLength: 0
@@ -99,22 +93,22 @@ MonoBehaviour:
   bpm: 100
   bars: 4
   barLength: 16
-  muScale: {fileID: 11400000, guid: 1bddff6110ffc41bdb8b0f6788475d1a, type: 2}
+  muScale: {fileID: 11400000, guid: a990407fe4f054da8aeb3809d38d902b, type: 2}
   scale: 0
   activeBars0: 01010101010001000100010001000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   activeBars1: 01010101010101010101010101010101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   percussionParams:
-  - Hits: 4
-    Rotation: 0
-    StepLength: 0
   - Hits: 7
     Rotation: 0
     StepLength: 0
-  - Hits: 6
-    Rotation: 0
+  - Hits: 3
+    Rotation: 2
     StepLength: 0
-  - Hits: 5
-    Rotation: 0
+  - Hits: 3
+    Rotation: 3
+    StepLength: 0
+  - Hits: 3
+    Rotation: 5
     StepLength: 0
   - Hits: 0
     Rotation: 0
