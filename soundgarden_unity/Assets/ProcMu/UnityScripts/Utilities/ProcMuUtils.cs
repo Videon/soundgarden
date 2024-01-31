@@ -166,7 +166,7 @@ namespace ProcMu.UnityScripts.Utilities
         {
             //GLOBAL
             to.bpm = from.bpm;
-            CopyScale(from.MuScale, to.MuScale);
+            CopyScale(from.muScale, to.muScale);
             to.activeBars0 = from.activeBars0;
             to.activeBars1 = from.activeBars1;
 

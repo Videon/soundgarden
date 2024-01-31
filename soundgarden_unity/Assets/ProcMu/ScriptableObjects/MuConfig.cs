@@ -12,7 +12,7 @@ namespace ProcMu.ScriptableObjects
     {
         public MelConfig[] instrument = new MelConfig[3];
         public RhythmParams[] rhythms = new RhythmParams[16];
-        public ArpMode[] arpModes = new ArpMode[16];
+        public ClimbMode[] arpModes = new ClimbMode[16];
         public Lsys[] lsystems = new Lsys[16];
 
         public PerConfig perConfig; //Configuration object for percussion
@@ -24,8 +24,8 @@ namespace ProcMu.ScriptableObjects
         public float bpm = 120;
         public int bars = 4;
         public int barLength = 16;
-        public MuScale MuScale;
-        public ScaleType Scale;
+        public MuScale muScale;
+        public ScaleType scale;
 
         /// <summary> Contains active bar information for all instruments. 4 indices reserved per layer. </summary>
         public bool[] activeBars0 = new bool[64];

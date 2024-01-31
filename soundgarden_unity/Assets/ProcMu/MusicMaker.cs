@@ -72,11 +72,12 @@ public class MusicMaker : MonoBehaviour
                 {
                     notes[i].note =
                         Random.Range(config.instrument[index].oct0.x, config.instrument[index].oct0.y) * 12 +
-                        Scales.GetScaleRandom(globalConfig.Scale);
+                        Scales.GetScaleRandom(globalConfig.scale);
                 }
 
                 break;
             case GenAlgo.Arpeggio:
+                notes = Climber.MakeNotes(notes, config, index);
                 break;
             case GenAlgo.Lsystem:
                 break;

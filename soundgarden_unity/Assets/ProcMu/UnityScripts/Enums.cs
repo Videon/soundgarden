@@ -87,7 +87,7 @@ namespace ProcMu.UnityScripts
         Perlin
     }
 
-    public enum ArpMode
+    public enum ClimbMode
     {
         Up,
         Down,

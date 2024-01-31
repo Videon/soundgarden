@@ -57,8 +57,6 @@ namespace ProcMu.ScriptableObjects.Editor
             {
                 DrawInstrument(i);
             }
-            //DrawInstrument(0); //Drone
-            //DrawInstrument(1); //Bass
 
             DrawPercussion();
 
@@ -77,11 +75,6 @@ namespace ProcMu.ScriptableObjects.Editor
             EditorGUILayout.EndHorizontal();
 
             EditorGUILayout.BeginHorizontal();
-            EditorGUILayout.LabelField("Scale", GUILayout.Width(100f));
-            _muConfig.Scale = (ScaleType)EditorGUILayout.EnumPopup(_muConfig.Scale, GUILayout.Width(100f));
-            EditorGUILayout.EndHorizontal();
-
-            EditorGUILayout.BeginHorizontal();
             EditorGUILayout.LabelField("steps/bar", GUILayout.Width(100f));
             _muConfig.barLength = EditorGUILayout.IntField(_muConfig.barLength, GUILayout.Width(100f));
             EditorGUILayout.LabelField("bars", GUILayout.Width(100f));
@@ -89,7 +82,16 @@ namespace ProcMu.ScriptableObjects.Editor
             EditorGUILayout.LabelField("total steps: " + _muConfig.TotalSteps, GUILayout.Width(120f));
             EditorGUILayout.EndHorizontal();
 
+            EditorGUILayout.BeginHorizontal();
+            //EditorGUILayout.LabelField("Scale", GUILayout.Width(100f));
+            //_muConfig.scale = (ScaleType)EditorGUILayout.EnumPopup(_muConfig.scale, GUILayout.Width(100f));
 
+            EditorGUILayout.LabelField("Scale", GUILayout.Width(100f));
+            _muConfig.muScale =
+                (MuScale)EditorGUILayout.ObjectField(_muConfig.muScale, typeof(MuScale), GUILayout.Width(100f));
+
+            EditorGUILayout.EndHorizontal();
+            
             EditorGUILayout.EndVertical();
             GUI.backgroundColor = defaultColor;
         }
@@ -162,6 +164,7 @@ namespace ProcMu.ScriptableObjects.Editor
             switch (_muConfig.instrument[index].algo)
             {
                 case GenAlgo.Arpeggio:
+                    DrawArpeggio(index);
                     break;
                 case GenAlgo.Lsystem:
                     DrawLSystem(index);
@@ -172,32 +175,15 @@ namespace ProcMu.ScriptableObjects.Editor
                     break;
             }
 
-            //Root note
-            EditorGUILayout.BeginHorizontal();
-            EditorGUILayout.LabelField("Root note", GUILayout.Width(100f));
-            _muConfig.instrument[index].rootNote =
-                (RootNote)EditorGUILayout.EnumPopup(_muConfig.instrument[index].rootNote, GUILayout.Width(120f));
-            EditorGUILayout.EndHorizontal();
-
             #endregion
 
             DrawRhythmSettings(index);
 
             #region Intensity labels
 
-            EditorGUILayout.BeginHorizontal();
-            EditorGUILayout.LabelField("", GUILayout.Width(100f));
-            EditorGUILayout.LabelField("Intensity = 0 settings", GUILayout.Width(160f));
-            EditorGUILayout.LabelField("", GUILayout.Width(10f));
-            EditorGUILayout.LabelField("Intensity = 1 settings", GUILayout.Width(160f));
-            EditorGUILayout.EndHorizontal();
-
             //Draw labels
             EditorGUILayout.BeginHorizontal();
             EditorGUILayout.LabelField("", GUILayout.Width(100f));
-            EditorGUILayout.LabelField("min", GUILayout.Width(80f));
-            EditorGUILayout.LabelField("max", GUILayout.Width(80f));
-            EditorGUILayout.LabelField("", GUILayout.Width(10f));
             EditorGUILayout.LabelField("min", GUILayout.Width(80f));
             EditorGUILayout.LabelField("max", GUILayout.Width(80f));
             EditorGUILayout.EndHorizontal();
@@ -213,14 +199,6 @@ namespace ProcMu.ScriptableObjects.Editor
             EditorGUILayout.LabelField("", GUILayout.Width(40f));
             _muConfig.instrument[index].oct0.y =
                 EditorGUILayout.IntField(_muConfig.instrument[index].oct0.y, GUILayout.Width(40f));
-            EditorGUILayout.LabelField("", GUILayout.Width(40f));
-            EditorGUILayout.LabelField("", GUILayout.Width(10f));
-            _muConfig.instrument[index].oct1.x =
-                EditorGUILayout.IntField(_muConfig.instrument[index].oct1.x, GUILayout.Width(40f));
-            EditorGUILayout.LabelField("", GUILayout.Width(40f));
-            _muConfig.instrument[index].oct1.y =
-                EditorGUILayout.IntField(_muConfig.instrument[index].oct1.y, GUILayout.Width(40f));
-            EditorGUILayout.LabelField("", GUILayout.Width(40f));
             EditorGUILayout.EndHorizontal();
 
             #endregion
@@ -269,6 +247,10 @@ namespace ProcMu.ScriptableObjects.Editor
 
         private void DrawArpeggio(int index)
         {
+            EditorGUILayout.BeginVertical();
+            _muConfig.arpModes[index] =
+                (ClimbMode)EditorGUILayout.EnumPopup(_muConfig.arpModes[index], GUILayout.Width(100f));
+            EditorGUILayout.EndVertical();
         }
 
         private void DrawLSystem(int index)

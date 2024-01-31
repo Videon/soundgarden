@@ -14,6 +14,8 @@ namespace ProcMu.CSUnity.Editor
 
         public override void OnInspectorGUI()
         {
+            EditorGUI.BeginChangeCheck();
+
             //Assign object variables
             MuScale scale = target as MuScale;
             bool[] activeNotes = scale.Scale;
@@ -24,7 +26,9 @@ namespace ProcMu.CSUnity.Editor
             DrawGenerateDialogue(scale, ref activeNotes, arrlen);
             scale.ScaleNotes = ProcMuUtils.ScaleActiveNotes(scale.Scale); //Update active notes in scale
 
-            EditorUtility.SetDirty(target); //TODO Set dirty only when something was changed!
+            if (EditorGUI.EndChangeCheck()) EditorUtility.SetDirty(scale);
+
+            DrawDefaultInspector();
         }
 
         #region Drawing elements
@@ -62,10 +66,10 @@ namespace ProcMu.CSUnity.Editor
         {
             EditorGUILayout.BeginHorizontal();
 
-            scale.rootNote = (RootNote) EditorGUILayout.EnumPopup(scale.rootNote,GUILayout.Width(120f));
-            _scale = (Scale) EditorGUILayout.EnumPopup(_scale,GUILayout.Width(120f));
+            scale.rootNote = (RootNote)EditorGUILayout.EnumPopup(scale.rootNote, GUILayout.Width(120f));
+            _scale = (Scale)EditorGUILayout.EnumPopup(_scale, GUILayout.Width(120f));
 
-            if (GUILayout.Button("Generate scale",GUILayout.Width(120f)))
+            if (GUILayout.Button("Generate scale", GUILayout.Width(120f)))
             {
                 ProcMuUtils.GenerateScale(scale.rootNote, _scale, ref activeNotes);
                 DrawScale(scale, activeNotes, arrlen);
@@ -97,7 +101,7 @@ namespace ProcMu.CSUnity.Editor
                 _ => "ERR"
             };
 
-            return name += (int) (noteIndex / 12);
+            return name += (int)(noteIndex / 12);
         }
 
         private GUIStyle StyleFromNoteIndex(int noteIndex)

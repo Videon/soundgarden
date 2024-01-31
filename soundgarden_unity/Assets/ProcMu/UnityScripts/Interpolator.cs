@@ -178,7 +178,7 @@ namespace ProcMu.UnityScripts
                 procMuMaster.SetBpm(Interpolate(distances, cumulatedDouble));
 
             //Getting scale from closest music zone, which is at index = 0 as _mcs array is sorted by distance.
-            ProcMuUtils.CopyScale(_mcs[0].Mc.MuScale, procMuMaster.mc.MuScale);
+            ProcMuUtils.CopyScale(_mcs[0].Mc.muScale, procMuMaster.mc.muScale);
 
             procMuMaster.mc.activeBars0 = _mcs[0].Mc.activeBars0;
             procMuMaster.mc.activeBars1 = _mcs[0].Mc.activeBars1;
