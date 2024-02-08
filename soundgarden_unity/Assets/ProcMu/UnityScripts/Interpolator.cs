@@ -2,6 +2,7 @@ using System;
 using ProcMu.ScriptableObjects;
 using ProcMu.UnityScripts.Utilities;
 using UnityEngine;
+using UnityEngine.Serialization;
 using Random = UnityEngine.Random;
 
 namespace ProcMu.UnityScripts
@@ -9,16 +10,16 @@ namespace ProcMu.UnityScripts
     /// <summary> Interpolates between multiple ProcMu configurations </summary>
     public class Interpolator : MonoBehaviour
     {
-        [SerializeField] private ProcMuMaster procMuMaster;
+        [SerializeField] private MusicMaker musicMaker;
+        [SerializeField] private MuConfig outputConfig;
 
         [SerializeField] private LayerMask layerMask;
 
         [SerializeField, Tooltip("Player object transform for position tracking.")]
-        public Transform playerTransform;
+        public Transform trackedTransform;
 
         [SerializeField]
-        [Tooltip(
-            "How music speed is determined. Global: Uses bpm value set in ProcMu Master. Local: Uses interpolated bpm value.")]
+        [Tooltip("How music speed is determined. Global: Uses global bpm value. Local: Uses interpolated bpm value.")]
         private BpmMode bpmMode;
 
         [SerializeField, Tooltip("The maximum distance of a music zone center away from the player to be considered.")]
@@ -36,7 +37,6 @@ namespace ProcMu.UnityScripts
 
         private Vector3 _playerPos;
 
-        private MuConfig _muConfig;
 
         private readonly McDist[] _mcs = new McDist[16]; //List of music configurations with attached distance value.
 
@@ -49,7 +49,7 @@ namespace ProcMu.UnityScripts
 
         private void Awake()
         {
-            _muConfig = procMuMaster.mc;
+            musicMaker.globalConfig = outputConfig;
         }
 
         // Update is called once per frame
@@ -75,8 +75,8 @@ namespace ProcMu.UnityScripts
             int inner = CheckInner(top);
 
             //If check position is within inner radius of a zone, use its config, otherwise interpolate.
-            if (inner > -1) ProcMuUtils.CopyMuConfig(_mcs[inner].Mc, procMuMaster.mc);
-            else InterpolateAll(distances, top);
+            //if (inner > -1) ProcMuUtils.CopyMuConfig(_mcs[inner].Mc, musicMaker);
+            //else InterpolateAll(distances, top);
         }
 
         /// <summary> Checks whether player is in inner zone of any music zone in reach and returns its index. </summary>
@@ -97,7 +97,7 @@ namespace ProcMu.UnityScripts
         {
             Array.Clear(_mcs, 0, _mcs.Length); //Clear list before filling it again with data.
 
-            int found = Physics.OverlapSphereNonAlloc(playerTransform.position, maxDistance, _colliders, layerMask);
+            int found = Physics.OverlapSphereNonAlloc(trackedTransform.position, maxDistance, _colliders, layerMask);
 
             //Use number of colliders as top if there are fewer colliders than space in the array.
             int top = found < _colliders.Length ? found : _colliders.Length;
@@ -107,7 +107,7 @@ namespace ProcMu.UnityScripts
                 float dist;
 
 
-                dist = Vector3.Distance(playerTransform.position, _colliders[i].transform.position);
+                dist = Vector3.Distance(trackedTransform.position, _colliders[i].transform.position);
 
                 MusicZone mz = _colliders[i].GetComponent<MusicZone>();
 
@@ -175,13 +175,13 @@ namespace ProcMu.UnityScripts
             }
 
             if (bpmMode == BpmMode.Local)
-                procMuMaster.SetBpm(Interpolate(distances, cumulatedDouble));
+                musicMaker.bpm = (float)Interpolate(distances, cumulatedDouble);
 
             //Getting scale from closest music zone, which is at index = 0 as _mcs array is sorted by distance.
-            ProcMuUtils.CopyScale(_mcs[0].Mc.muScale, procMuMaster.mc.muScale);
+            //ProcMuUtils.CopyScale(_mcs[0].Mc.muScale, musicMaker.mc.muScale);
 
-            procMuMaster.mc.activeBars0 = _mcs[0].Mc.activeBars0;
-            procMuMaster.mc.activeBars1 = _mcs[0].Mc.activeBars1;
+            //musicMaker.mc.activeBars0 = _mcs[0].Mc.activeBars0;
+            //musicMaker.mc.activeBars1 = _mcs[0].Mc.activeBars1;
 
             #endregion
         }
@@ -281,6 +281,36 @@ namespace ProcMu.UnityScripts
                 catch (DivideByZeroException)
                 {
                     w = 1 / 0.0001d;
+                }
+
+                sumW += w;
+
+                sumWz += values[i] * w;
+            }
+
+            return sumWz / sumW;
+        }
+        
+        /// <summary> Performs weighted interpolation between multiple double values. </summary>
+        /// <param name="distances"> Weight per value. Weights must be in order of inputs. </param>
+        /// <param name="values"> Input values. </param>
+        /// <returns> Interpolated value. </returns>
+        private float Interpolate(float[] distances, float[] values)
+        {
+            float sumW = 0;
+            float sumWz = 0;
+
+            for (int i = 0; i < values.Length; i++)
+            {
+                float w;
+                //Tiny chance for division by zero if distance to player is very small, therefore using MinValue as catch value.
+                try
+                {
+                    w = 1f / Mathf.Pow(distances[i], 2f);
+                }
+                catch (DivideByZeroException)
+                {
+                    w = 1 / 0.0001f;
                 }
 
                 sumW += w;

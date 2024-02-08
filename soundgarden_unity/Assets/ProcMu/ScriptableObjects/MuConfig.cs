@@ -28,9 +28,7 @@ namespace ProcMu.ScriptableObjects
         public ScaleType scale;
 
         /// <summary> Contains active bar information for all instruments. 4 indices reserved per layer. </summary>
-        public bool[] activeBars0 = new bool[64];
-
-        public bool[] activeBars1 = new bool[64];
+        public bool[] activeBars = new bool[64];
 
         #endregion
 

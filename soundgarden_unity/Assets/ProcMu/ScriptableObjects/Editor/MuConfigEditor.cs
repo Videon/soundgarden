@@ -91,7 +91,7 @@ namespace ProcMu.ScriptableObjects.Editor
                 (MuScale)EditorGUILayout.ObjectField(_muConfig.muScale, typeof(MuScale), GUILayout.Width(100f));
 
             EditorGUILayout.EndHorizontal();
-            
+
             EditorGUILayout.EndVertical();
             GUI.backgroundColor = defaultColor;
         }
@@ -104,10 +104,6 @@ namespace ProcMu.ScriptableObjects.Editor
 
             EditorGUILayout.BeginHorizontal();
             EditorGUILayout.LabelField("Instrument", GUILayout.Width(80f));
-            EditorGUILayout.LabelField("", GUILayout.Width(10f));
-            EditorGUILayout.LabelField("Intensity = 0 settings", GUILayout.Width(160f));
-            EditorGUILayout.LabelField("", GUILayout.Width(10f));
-            EditorGUILayout.LabelField("Intensity = 1 settings", GUILayout.Width(160f));
             EditorGUILayout.EndHorizontal();
 
             for (int instr = 0; instr < 4; instr++)
@@ -121,17 +117,8 @@ namespace ProcMu.ScriptableObjects.Editor
                 //Draw active bars for intensity = 0
                 for (int i = 0; i < 4; i++)
                 {
-                    _muConfig.activeBars0[index + i] =
-                        EditorGUILayout.Toggle("", _muConfig.activeBars0[index + i], GUILayout.Width(20f));
-                }
-
-                EditorGUILayout.LabelField("", GUILayout.Width(80f));
-
-                //Draw active bars for intensity = 1
-                for (int i = 0; i < 4; i++)
-                {
-                    _muConfig.activeBars1[index + i] =
-                        EditorGUILayout.Toggle("", _muConfig.activeBars1[index + i], GUILayout.Width(20f));
+                    _muConfig.activeBars[index + i] =
+                        EditorGUILayout.Toggle("", _muConfig.activeBars[index + i], GUILayout.Width(20f));
                 }
 
                 EditorGUILayout.EndHorizontal();
@@ -151,6 +138,8 @@ namespace ProcMu.ScriptableObjects.Editor
             EditorGUILayout.LabelField("Instrument", GUILayout.Width(100f));
             _muConfig.instrument[index].name =
                 EditorGUILayout.TextField(_muConfig.instrument[index].name, GUILayout.Width(120f));
+            _muConfig.instrument[index].type =
+                (InstrumentType)EditorGUILayout.EnumPopup(_muConfig.instrument[index].type, GUILayout.Width(120f));
             EditorGUILayout.EndHorizontal();
 
             #region Generative settings

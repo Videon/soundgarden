@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5a868a37e677a4ffd9772fbe11c32c38, type: 3}
-  m_Name: muc_default
+  m_Name: muc_A
   m_EditorClassIdentifier: 
   instrument:
   - name: Drone

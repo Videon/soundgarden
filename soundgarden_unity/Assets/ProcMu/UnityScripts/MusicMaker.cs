@@ -11,14 +11,15 @@ using Random = UnityEngine.Random;
 public class MusicMaker : MonoBehaviour
 {
     [SerializeField] private AudioHelmClock clock;
+    public float bpm = 80;
+    
     [SerializeField] private Sampler percussionSampler;
-
-
+    
     [SerializeField] private List<Sequencer> sequencers;
 
     [SerializeField] private int rootNote = 60;
 
-    [SerializeField] private MuConfig globalConfig;
+    [SerializeField] public MuConfig globalConfig;
 
     [SerializeField] private int currentStep;
 
@@ -26,10 +27,6 @@ public class MusicMaker : MonoBehaviour
     {
         //Then initialize everything
         Initialize();
-    }
-
-    void Start()
-    {
     }
 
     private void Initialize()

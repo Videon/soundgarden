@@ -95,4 +95,12 @@ namespace ProcMu.UnityScripts
         DownAndUp,
         Random
     }
+
+    public enum InstrumentType
+    {
+        Drone,
+        Bass,
+        Lead,
+        Percussion
+    }
 }
