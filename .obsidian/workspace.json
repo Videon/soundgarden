@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08eb653b7d3b017f",
+            "id": "b7f8d12622c8fe66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/2024-01-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f181995f1efd8b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/2024-02-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54df9bd4093b4daf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/2024-02-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325.5
   },
   "right": {
     "id": "fd537dd8990a033b",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/2024-02-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/2024-02-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/2024-02-14.md"
               }
             }
           }
@@ -146,6 +171,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08eb653b7d3b017f",
-  "lastOpenFiles": []
+  "active": "f181995f1efd8b74",
+  "lastOpenFiles": [
+    "docs/2024-02-28.md",
+    "docs/2024-01-31.md",
+    "docs/2024-02-14.md",
+    "docs/attachments/Pasted image 20240222104948.png",
+    "soundgarden_unreal/Content/Audio/Music/MS_Kait.uasset",
+    "soundgarden_unreal/Content/Audio/Music/MS_Hill.uasset",
+    "docs/attachments/Pasted image 20240221110747.png",
+    "docs/attachments/Pasted image 20240221110744.png",
+    "Pasted.md",
+    "docs/attachments/Pasted image 20240221104635.png",
+    "docs/attachments/Pasted image 20240221094701.png",
+    "docs/attachments/Pasted image 20240221104449.png",
+    "docs/attachments/Pasted image 20240128183322.png",
+    "docs/Pasted image 20240128183322.png",
+    "soundgarden_unreal/Intermediate/CachedAssetRegistry_0.bin.tmp",
+    "soundgarden_unreal/Intermediate/TurnkeyReport_1.log",
+    "soundgarden_unreal/Intermediate/TurnkeyReport_0.log",
+    "soundgarden_unreal/Saved/Logs/soundgarden-backup-2024.02.22-15.46.40.log",
+    "soundgarden_unreal/Saved/Config/CrashReportClient/UECC-Windows-8128746D4DDD4D446B79CBAFED4829CE/CrashReportClient.ini",
+    "soundgarden_unreal/Saved/Config/CrashReportClient/UECC-Windows-8128746D4DDD4D446B79CBAFED4829CE",
+    "soundgarden_unreal/Saved/Crashes/UECC-Windows-4B7115CE4A1909E5FAC5F1BA20B79F5F_0000/CrashContext.runtime-xml",
+    "soundgarden_unreal/Saved/Crashes/UECC-Windows-4B7115CE4A1909E5FAC5F1BA20B79F5F_0000/UEMinidump.dmp",
+    "docs/Procedural Music System.md",
+    "docs/Welcome.md",
+    "docs/attachments/Pasted image 20240215154624.png",
+    "docs/attachments/Pasted image 20240131131837.png",
+    "README.md"
+  ]
 }
