@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-02-14.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2024-02-14.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2024-02-14.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2024-02-14.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -173,15 +173,19 @@
   },
   "active": "f181995f1efd8b74",
   "lastOpenFiles": [
+    "docs/Procedural Music System.md",
+    "docs/index.md",
+    "docs/Welcome.md",
+    "Pasted.md",
+    "README.md",
+    "docs/2024-02-14.md",
     "docs/2024-02-28.md",
     "docs/2024-01-31.md",
-    "docs/2024-02-14.md",
     "docs/attachments/Pasted image 20240222104948.png",
     "soundgarden_unreal/Content/Audio/Music/MS_Kait.uasset",
     "soundgarden_unreal/Content/Audio/Music/MS_Hill.uasset",
     "docs/attachments/Pasted image 20240221110747.png",
     "docs/attachments/Pasted image 20240221110744.png",
-    "Pasted.md",
     "docs/attachments/Pasted image 20240221104635.png",
     "docs/attachments/Pasted image 20240221094701.png",
     "docs/attachments/Pasted image 20240221104449.png",
@@ -195,10 +199,7 @@
     "soundgarden_unreal/Saved/Config/CrashReportClient/UECC-Windows-8128746D4DDD4D446B79CBAFED4829CE",
     "soundgarden_unreal/Saved/Crashes/UECC-Windows-4B7115CE4A1909E5FAC5F1BA20B79F5F_0000/CrashContext.runtime-xml",
     "soundgarden_unreal/Saved/Crashes/UECC-Windows-4B7115CE4A1909E5FAC5F1BA20B79F5F_0000/UEMinidump.dmp",
-    "docs/Procedural Music System.md",
-    "docs/Welcome.md",
     "docs/attachments/Pasted image 20240215154624.png",
-    "docs/attachments/Pasted image 20240131131837.png",
-    "README.md"
+    "docs/attachments/Pasted image 20240131131837.png"
   ]
 }
