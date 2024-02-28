@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-01-31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f181995f1efd8b74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54df9bd4093b4daf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "docs/2024-02-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/2024-02-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/2024-02-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/2024-02-28.md"
               }
             }
           }
@@ -171,19 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f181995f1efd8b74",
+  "active": "b7f8d12622c8fe66",
   "lastOpenFiles": [
-    "docs/2024-02-14.md",
+    "soundgarden_unreal/Saved/MS_Soundgarden8C008D4446C55EBFA730A0A0A2AF6AF0.tmp",
+    "soundgarden_unreal/Saved/MS_SoundgardenDD36AB57401413D68159EF80F6CE4215.tmp",
+    "soundgarden_unreal/Saved/MS_Soundgarden84EB386B409CAB296D8CE498FAC4367C.tmp",
+    "soundgarden_unreal/Saved/MS_SoundgardenA499CEC9414583AA476CA7ABEE3C72FE.tmp",
+    "soundgarden_unreal/Saved/MS_Soundgarden47E0E8184225C9158471B2B5574C7273.tmp",
+    "soundgarden_unreal/Saved/MS_Soundgarden2A9AD8D14B7324C5E51C50A0F2633074.tmp",
+    "soundgarden_unreal/Saved/MS_Soundgarden7DDF6A40456C1F24930D2F97B70321C2.tmp",
+    "soundgarden_unreal/Saved/MS_SoundgardenEBC6F8FC44FFA968EAA6AC99421683C8.tmp",
+    "soundgarden_unreal/Saved/MS_Soundgarden6B530B99480342067BF661815F9056B3.tmp",
+    "soundgarden_unreal/Saved/MS_Soundgarden563FDB364283DA8D857F97BEFAFD2049.tmp",
+    "soundgarden_unreal/Saved/MS_SoundgardenBC8F4F224842B04F99B079AA81CD4D6B.tmp",
+    "docs/2024-01-31.md",
+    "www.google.com.md",
+    "docs/2024-02-28.md",
     "docs/index.md",
+    "docs/2024-02-14.md",
     "docs/Procedural Music System.md",
     "docs/Welcome.md",
     "Pasted.md",
     "README.md",
-    "docs/2024-02-28.md",
-    "docs/2024-01-31.md",
     "docs/attachments/Pasted image 20240222104948.png",
-    "soundgarden_unreal/Content/Audio/Music/MS_Kait.uasset",
-    "soundgarden_unreal/Content/Audio/Music/MS_Hill.uasset",
     "docs/attachments/Pasted image 20240221110747.png",
     "docs/attachments/Pasted image 20240221110744.png",
     "docs/attachments/Pasted image 20240221104635.png",
@@ -191,14 +176,6 @@
     "docs/attachments/Pasted image 20240221104449.png",
     "docs/attachments/Pasted image 20240128183322.png",
     "docs/Pasted image 20240128183322.png",
-    "soundgarden_unreal/Intermediate/CachedAssetRegistry_0.bin.tmp",
-    "soundgarden_unreal/Intermediate/TurnkeyReport_1.log",
-    "soundgarden_unreal/Intermediate/TurnkeyReport_0.log",
-    "soundgarden_unreal/Saved/Logs/soundgarden-backup-2024.02.22-15.46.40.log",
-    "soundgarden_unreal/Saved/Config/CrashReportClient/UECC-Windows-8128746D4DDD4D446B79CBAFED4829CE/CrashReportClient.ini",
-    "soundgarden_unreal/Saved/Config/CrashReportClient/UECC-Windows-8128746D4DDD4D446B79CBAFED4829CE",
-    "soundgarden_unreal/Saved/Crashes/UECC-Windows-4B7115CE4A1909E5FAC5F1BA20B79F5F_0000/CrashContext.runtime-xml",
-    "soundgarden_unreal/Saved/Crashes/UECC-Windows-4B7115CE4A1909E5FAC5F1BA20B79F5F_0000/UEMinidump.dmp",
     "docs/attachments/Pasted image 20240215154624.png",
     "docs/attachments/Pasted image 20240131131837.png"
   ]
