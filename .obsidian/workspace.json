@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-02-28.md",
+                "file": "docs/2024-03-13.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2024-02-28.md",
+                "file": "docs/2024-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2024-02-28.md",
+                "file": "docs/2024-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2024-02-28.md"
+                "file": "docs/2024-03-13.md"
               }
             }
           }
@@ -149,24 +149,24 @@
   },
   "active": "43aae2feee55c71f",
   "lastOpenFiles": [
-    "soundgarden_unreal/Saved/Crashes/UECC-Windows-E47826404C46C70BBB44769C89270B9F_0000/CrashContext.runtime-xml",
-    "soundgarden_unreal/Saved/Crashes/UECC-Windows-E47826404C46C70BBB44769C89270B9F_0000/CrashReportClient.ini",
-    "soundgarden_unreal/Saved/Crashes/UECC-Windows-E47826404C46C70BBB44769C89270B9F_0000/soundgarden.log",
-    "soundgarden_unreal/Saved/Crashes/UECC-Windows-E47826404C46C70BBB44769C89270B9F_0000",
-    "soundgarden_unreal/Intermediate/CachedAssetRegistry_0.bin.tmp",
-    "soundgarden_unreal/Intermediate/TurnkeyReport_1.log",
-    "soundgarden_unreal/Intermediate/TurnkeyReport_0.log",
-    "soundgarden_unreal/Intermediate/DatasmithContentTemp",
-    "soundgarden_unreal/Saved/Logs/soundgarden-backup-2024.03.05-02.17.23.log",
-    "soundgarden_unreal/Saved/Config/CrashReportClient/UECC-Windows-E47826404C46C70BBB44769C89270B9F/CrashReportClient.ini",
-    "soundgarden_unreal/Saved/Config/CrashReportClient/UECC-Windows-E47826404C46C70BBB44769C89270B9F",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/9/84/8Y2QJHZHC0J8J9J6R5YFM3.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/9/84",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/9/7I/P9FMIWCSH94VUWE5EUME1P.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/9/7I",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/1/2J/1WCXDX4LA0QJJY9UJICNS9.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/1/2J",
+    "soundgarden_unreal/Saved/BP_GameController1A7E80604CF9D58D6E6BE59F4C653BCE.tmp",
+    "soundgarden_unreal/Saved/BP_GameController31F34A0F48F879723BDB61A7C8835773.tmp",
+    "soundgarden_unreal/Saved/BP_GameController870D96F3455CA3059AB427BA56546EC6.tmp",
+    "soundgarden_unreal/Saved/BP_GameController78286D9A485955654F16689D9880E5F4.tmp",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-000053a4-2024-03-06T12.31.34.759Z.log",
+    "docs/2024-02-28.md",
     "docs/2024-02-14.md",
     "docs/2024-01-31.md",
     "docs/Procedural Music System.md",
     "docs/Welcome.md",
     "docs/index.md",
     "www.google.com.md",
-    "docs/2024-02-28.md",
     "docs/2024-03-13.md",
     "docs/attachments/Pasted image 20240215154624.png",
     "docs/attachments/Pasted image 20240304124159.png",
