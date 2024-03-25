@@ -19,6 +19,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0449263ae15cea1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -149,25 +161,27 @@
   },
   "active": "43aae2feee55c71f",
   "lastOpenFiles": [
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings84CC3D55465030DAF97F3BB79DF7B602.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings5F312A3D4D17C0C19D2364979F5ED893.tmp",
-    "soundgarden_unreal/Content/Blueprints/BP_NightSky.uasset",
-    "soundgarden_unreal/Saved/BP_DayNight292DE1F5471DDFAAD07ACCA4BC86DECA.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsEFFEF8804C043EE0BF202FA7F4269F43.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsA7DD554B4E0F20CE9EE6EC88DCCF6CF1.tmp",
-    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-000066b0-2024-03-21T23.27.48.596Z.log",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsA713B284427835974656A09944A2833F.tmp",
-    "soundgarden_unreal/Saved/SunSkyF766270D4A4A36428850D29CB2EC4AAD.tmp",
-    "soundgarden_unreal/Saved/Autosaves/Game/Blueprints/BP_NightSky_Auto1.uasset",
-    "soundgarden_unreal/Saved/Autosaves/SunPosition/SunSky_Auto1.uasset",
-    "docs/attachments/Pasted image 20240320202008.png",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings64952FEB4AD8544B4CFB4999B68B4761.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings59A204C2404E7C2810E5B78DEC79E944.tmp",
+    "docs/index.md",
+    "docs/2024-03-25.md",
+    "docs/2024-03-13.md",
     "docs/2024-02-28.md",
     "docs/2024-02-14.md",
-    "docs/2024-03-13.md",
     "docs/2024-01-31.md",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings9D4DC5CA4CA563F40FC577891EE4BF8B.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsFEA4CA3D4F5547F81FEAACB38CE45523.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings4B723A6E4E234FC114E11B91D73CC186.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings4968A37A4821EF4567702391F83089A2.tmp",
+    "docs/attachments/Pasted image 20240325110056.png",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings81F3FCB64E385717AEFEED89958E95DF.tmp",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-0000295c-2024-03-25T11.00.02.754Z.log",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE6F380834CCB4A8010321FA8E8945AF1.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings1377E7984255349CAEB82A9EC4C9319F.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings55EEB2614712A68A4F7BB38AB1F41B01.tmp",
+    "docs/attachments/Pasted image 20240320202008.png",
     "docs/Procedural Music System.md",
     "docs/Welcome.md",
-    "docs/index.md",
     "www.google.com.md",
     "docs/attachments/Pasted image 20240215154624.png",
     "docs/attachments/Pasted image 20240304124159.png",
@@ -178,7 +192,6 @@
     "docs/attachments/Pasted image 20240229001624.png",
     "Pasted.md",
     "README.md",
-    "docs/attachments/Pasted image 20240222104948.png",
-    "docs/attachments/Pasted image 20240221110747.png"
+    "docs/attachments/Pasted image 20240222104948.png"
   ]
 }
