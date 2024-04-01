@@ -43,9 +43,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eec360e310c58d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/2024-03-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2024-03-27.md",
+                "file": "docs/2024-03-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2024-03-27.md",
+                "file": "docs/2024-03-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2024-03-27.md"
+                "file": "docs/2024-03-31.md"
               }
             }
           }
@@ -172,21 +184,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee812a7129e7ea53",
+  "active": "eec360e310c58d22",
   "lastOpenFiles": [
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings53974055428CCFBDFD2E69952187974A.tmp",
-    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-00004fc8-2024-03-30T14.08.44.006Z.log",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsB969A4674C25EA23BC7379AD59E27C4C.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings8C012DFE4E7E78AC57C14DB041235DB2.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsFBB7DDDE4DC06BE9E4F24ABE8D4018DD.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings495B87A0440373257824E4A0229DCC8D.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE919099A48B575A4DF1A7AA2D283C249.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsFB8040EA4C6C69387AEAA4AB77532208.tmp",
-    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-00004fc8-2024-03-30T14.08.04.711Z.log",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings72A57C454ED3864295E77EBFC044A13F.tmp",
-    "soundgarden_unreal/Saved/BP_DayNight64509A2A44FB1E860F6CD2BE58983152.tmp",
-    "docs/2024-03-26.md",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsAC92C5354DBAE539F45546B20691647C.tmp",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-00001458-2024-03-31T22.05.47.678Z.log",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings42D48A294796608B4A7B93B624C5B7D7.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsFF5D94E744871D389986B3BB8F8BA6E2.tmp",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-00001458-2024-03-31T22.05.39.846Z.log",
+    "soundgarden_unreal/Saved/BP_DayNightF1E8A9F644D74DF6E76404A0BBCA72B7.tmp",
+    "soundgarden_unreal/Saved/BP_DayNight98C5D30D437DC97E924B719799212299.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsEA98E7FB43C06FBD558B9E8A5793016D.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsAED7507B4A8A9AB4C07CD999B0E0091C.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings1D2C3B99431FB3253D814DB98848EFFD.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings9197C3204692B26EEB53518ABDCE08CC.tmp",
     "docs/2024-03-27.md",
+    "docs/2024-03-31.md",
+    "docs/2024-03-26.md",
     "docs/Ideapad.md",
     "docs/2024-03-13.md",
     "docs/2024-02-28.md",
