@@ -8,44 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43aae2feee55c71f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/2024-02-14.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "138230bb4cd2d96f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-03-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee812a7129e7ea53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/2024-03-31.md",
+                "file": "docs/2024-04-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2024-03-31.md",
+                "file": "docs/2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2024-03-31.md",
+                "file": "docs/2024-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2024-03-31.md"
+                "file": "docs/2024-04-04.md"
               }
             }
           }
@@ -172,8 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee812a7129e7ea53",
+  "active": "138230bb4cd2d96f",
   "lastOpenFiles": [
+    "docs/2024-03-13.md",
+    "docs/2024-02-28.md",
+    "docs/2024-04-31.md",
+    "docs/index.md",
+    "docs/Welcome.md",
+    "docs/2024-04-04.md",
+    "docs/2024-04-18.md",
+    "docs/2024-01-31.md",
+    "docs/2024-02-14.md",
     "soundgarden_unreal/Saved/StagedBuilds/Windows/Manifest_UFSFiles_Win64.txt",
     "soundgarden_unreal/Saved/StagedBuilds/Windows/Manifest_NonUFSFiles_Win64.txt",
     "soundgarden_unreal/Saved/StagedBuilds/Windows/soundgarden.exe",
@@ -184,20 +167,11 @@
     "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
     "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll",
     "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64",
-    "docs/2024-04-04.md",
-    "docs/2024-02-14.md",
-    "docs/2024-01-31.md",
-    "docs/2024-03-13.md",
-    "docs/2024-02-28.md",
-    "docs/2024-03-31.md",
     "docs/Ideapad.md",
     "docs/2024-03-26.md",
-    "docs/index.md",
     "docs/attachments/Pasted image 20240325110056.png",
     "docs/attachments/Pasted image 20240320202008.png",
     "docs/Procedural Music System.md",
-    "docs/Welcome.md",
     "www.google.com.md",
     "docs/attachments/Pasted image 20240215154624.png",
     "docs/attachments/Pasted image 20240304124159.png",
