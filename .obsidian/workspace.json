@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-04-31.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2024-04-31.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2024-04-31.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2024-04-31.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -148,28 +148,28 @@
   },
   "active": "138230bb4cd2d96f",
   "lastOpenFiles": [
-    "soundgarden_unreal/Content/Audio/Music/Samples/ambience/ambience_swamp_b.uasset",
-    "soundgarden_unreal/Content/Audio/Music/Samples/ambience/ambience_swamp_b.wav",
-    "soundgarden_unreal/Content/Audio/Music/Samples/ambience/ambience_swamp_a.uasset",
-    "soundgarden_unreal/Content/Audio/Music/Samples/ambience/ambience_swamp_a.wav",
+    "soundgarden_unreal/Intermediate/CachedAssetRegistry_0.bin.tmp",
+    "soundgarden_unreal/Intermediate/TurnkeyReport_1.log",
+    "soundgarden_unreal/Intermediate/TurnkeyReport_0.log",
+    "soundgarden_unreal/Intermediate/DatasmithContentTemp",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/C/96/05DLO1RP853HUO86ZUBWZI.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/C/96",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/B/IY/9X2ZIXH23MLDB1POPI525L.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/B/IY",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/8/31/AGQNNG96912APKDMSU01AC.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/8/31",
+    "soundgarden_unreal/Content/__ExternalObjects__/Maps/garden2/C/0J/SVNLJVENVW2JKM2J5NQSN3.uasset",
+    "docs/Ideapad.md",
+    "docs/index.md",
+    "docs/Welcome.md",
+    "docs/2024-02-28.md",
+    "docs/2024-02-14.md",
+    "docs/2024-01-31.md",
+    "docs/2024-04-31.md",
     "docs/attachments/Pasted image 20240409001242.png",
     "docs/2024-04-18.md",
     "docs/2024-04-04.md",
     "docs/2024-03-13.md",
-    "docs/2024-02-14.md",
-    "docs/2024-01-31.md",
-    "docs/2024-02-28.md",
-    "docs/2024-04-31.md",
-    "docs/index.md",
-    "docs/Welcome.md",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Manifest_UFSFiles_Win64.txt",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Manifest_NonUFSFiles_Win64.txt",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/soundgarden.exe",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
-    "docs/Ideapad.md",
     "docs/2024-03-26.md",
     "docs/attachments/Pasted image 20240325110056.png",
     "docs/attachments/Pasted image 20240320202008.png",
