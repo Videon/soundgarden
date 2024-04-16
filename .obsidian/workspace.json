@@ -4,22 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "f1e609aadc1c623e",
+        "id": "2e0e65de354e845d",
         "type": "tabs",
         "children": [
           {
-            "id": "138230bb4cd2d96f",
+            "id": "dfd63a3b5af5cade",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Tutorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "695d7a52f5cca136",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Soundgarden - Documentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1bb61ec5025527b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Soundgarden - Documentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Soundgarden - Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Soundgarden - Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Soundgarden - Documentation.md"
               }
             }
           }
@@ -146,26 +173,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "138230bb4cd2d96f",
+  "active": "1bb61ec5025527b8",
   "lastOpenFiles": [
+    "other/ps23F8.tmp",
     "soundgarden_unreal/Intermediate/CachedAssetRegistry_0.bin.tmp",
     "soundgarden_unreal/Intermediate/TurnkeyReport_1.log",
     "soundgarden_unreal/Intermediate/TurnkeyReport_0.log",
     "soundgarden_unreal/Intermediate/DatasmithContentTemp",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/C/96/05DLO1RP853HUO86ZUBWZI.uasset",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/C/96",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/B/IY/9X2ZIXH23MLDB1POPI525L.uasset",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/B/IY",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/8/31/AGQNNG96912APKDMSU01AC.uasset",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/8/31",
-    "soundgarden_unreal/Content/__ExternalObjects__/Maps/garden2/C/0J/SVNLJVENVW2JKM2J5NQSN3.uasset",
+    "Day.md",
+    "docs/Soundgarden - Documentation.md",
+    "docs/Tutorial.md",
+    "docs/Procedural Music System.md",
+    "docs/2024-04-31.md",
+    "docs/Gameplay loop.md",
+    "docs/Day and night cycle.md",
+    "().md",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsDB17681840B5BD1D8791C08D4DD821DE.tmp",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-000073c8-2024-04-15T18.56.07.522Z.log",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings3BA3FAD240978C0F4DAF058B86A7BCCF.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsF9F619BF4B640A9E06C3698939274304.tmp",
+    "soundgarden_unreal/Saved/Logs/soundgarden-backup-2024.04.04-01.01.58.log",
+    "soundgarden_unreal/Saved/Config/CrashReportClient/UECC-Windows-9F767DB54B7F380B98C7B183605E1575/CrashReportClient.ini",
     "docs/Ideapad.md",
     "docs/index.md",
+    "docs/doc_gameplay.md",
     "docs/Welcome.md",
     "docs/2024-02-28.md",
     "docs/2024-02-14.md",
     "docs/2024-01-31.md",
-    "docs/2024-04-31.md",
     "docs/attachments/Pasted image 20240409001242.png",
     "docs/2024-04-18.md",
     "docs/2024-04-04.md",
@@ -173,7 +208,6 @@
     "docs/2024-03-26.md",
     "docs/attachments/Pasted image 20240325110056.png",
     "docs/attachments/Pasted image 20240320202008.png",
-    "docs/Procedural Music System.md",
     "www.google.com.md",
     "docs/attachments/Pasted image 20240215154624.png",
     "docs/attachments/Pasted image 20240304124159.png",
