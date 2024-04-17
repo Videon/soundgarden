@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "1bb61ec5025527b8",
+            "id": "4edfe440dd35eba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,24 +46,24 @@
             }
           },
           {
-            "id": "b46c7a09977f6faa",
+            "id": "68f794fb5f25b34c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-02-28.md",
+                "file": "docs/2024-04-18.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "57f44adb2b130030",
+            "id": "57b9386bc32c62ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-03-13.md",
+                "file": "docs/2024-04-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -197,39 +197,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bb61ec5025527b8",
+  "active": "4edfe440dd35eba6",
   "lastOpenFiles": [
-    "soundgarden_unreal/Saved/Crashes/UECC-Windows-5E9F74B643C39B2852B99C907704D845_0000/CrashContext.runtime-xml",
-    "soundgarden_unreal/Saved/Crashes/UECC-Windows-5E9F74B643C39B2852B99C907704D845_0000/UEMinidump.dmp",
-    "soundgarden_unreal/Saved/Crashes/UECC-Windows-5E9F74B643C39B2852B99C907704D845_0000/CrashReportClient.ini",
-    "soundgarden_unreal/Saved/Crashes/UECC-Windows-5E9F74B643C39B2852B99C907704D845_0000/soundgarden_2.log",
-    "soundgarden_unreal/Saved/Crashes/UECC-Windows-5E9F74B643C39B2852B99C907704D845_0000",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsDABAF7114B05C1853107DDA1D5491E83.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings97472A0B47848EF6B96B95AECF6CC7BC.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings1E5906FC49AF3AECFE8B68B6A69BCEF4.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings463A2D69439BD06B4ED0889EBB934317.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings7774655340FCC0CD0DD5DDB317BF2FE2.tmp",
-    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-00004624-2024-04-17T16.23.40.698Z.log",
-    "docs/2024-02-28.md",
-    "docs/Soundgarden - Documentation.md",
-    "docs/2024-03-13.md",
-    "docs/2024-04-16.md",
-    "docs/2024-04-04.md",
+    "docs/attachments/Pasted image 20240417184056.png",
     "docs/2024-04-31.md",
     "docs/2024-04-18.md",
+    "docs/2024-04-16.md",
+    "docs/index.md",
+    "docs/Ideapad.md",
+    "docs/Gameplay loop.md",
+    "docs/Day and night cycle.md",
+    "docs/Collectable events.md",
+    "docs/2024-04-04.md",
+    "docs/Soundgarden - Documentation.md",
+    "docs/2024-03-13.md",
+    "docs/2024-02-28.md",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsA87DE6314E448713E456268A6894C321.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings3B87E1DC4DC78C3F1B9F39A58DE0E582.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings5C3810D34D2638A15753389F223F881A.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings4F1C1C4A4D47513E8E0DB2BCCC6FA4C6.tmp",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-00002768-2024-04-17T17.44.50.042Z.log",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings944A8C144581E90C62B56CABD0F36F0C.tmp",
+    "soundgarden_unreal/Saved/XPXPOG6IWQ1M3GKAYU6CDK9C1999E44F59541ABBC16899564E2E30.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsCA1B5563406980709D4DBBA7C7E99A55.tmp",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-00002768-2024-04-17T17.41.17.905Z.log",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings69FB44FC4280BD287093E49F304C3212.tmp",
+    "docs/attachments/Pasted image 20240417170703.png",
     "docs/Tutorial.md",
     "other/island.png",
     "other/island_firstversion.png",
     "docs/2024-02-14.md",
-    "docs/Collectable events.md",
     "docs/Map.md",
     "Day.md",
     "docs/Procedural Music System.md",
-    "docs/Gameplay loop.md",
-    "docs/Day and night cycle.md",
     "().md",
-    "docs/Ideapad.md",
-    "docs/index.md",
     "docs/doc_gameplay.md",
     "docs/Welcome.md",
     "docs/2024-01-31.md",
@@ -242,7 +243,6 @@
     "docs/attachments/Pasted image 20240304124159.png",
     "docs/attachments/Pasted image 20240303172716.png",
     "docs/attachments/Pasted image 20240301190506.png",
-    "docs/attachments/Pasted image 20240301185523.png",
     "Pasted.md",
     "README.md"
   ]
