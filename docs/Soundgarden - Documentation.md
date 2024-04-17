@@ -2,10 +2,11 @@
 2. Gameplay
 	1. [Tutorial](Tutorial.md)
 	2. [Gameplay loop](Gameplay loop)
-	3. [Collectables](Collectables)
-	4. Collectable events
-	5. [Day and night cycle](Day and night cycle)
-	6. Wind
+	3. [Map](Map.md)
+	4. [Collectables](Collectables)
+	5. [Collectable events](Collectable events)
+	6. [Day and night cycle](Day and night cycle)
+	7. Wind
 3. Sound
 	1. General setup
 	2. [Main module](Main module)

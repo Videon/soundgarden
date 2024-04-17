@@ -39,7 +39,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Soundgarden - Documentation.md",
+                "file": "docs/2024-04-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b46c7a09977f6faa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/2024-02-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57f44adb2b130030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/2024-03-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Soundgarden - Documentation.md",
+                "file": "docs/2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Soundgarden - Documentation.md",
+                "file": "docs/2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Soundgarden - Documentation.md"
+                "file": "docs/2024-04-16.md"
               }
             }
           }
@@ -175,36 +199,41 @@
   },
   "active": "1bb61ec5025527b8",
   "lastOpenFiles": [
-    "other/ps23F8.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings426248E344E4BA78E3ACEF8E3E35CDD4.tmp",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-000061dc-2024-04-17T13.20.22.317Z.log",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-000061dc-2024-04-17T13.19.42.989Z.log",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-000061dc-2024-04-17T13.11.13.599Z.log",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsD976C1AA44F5DE7619EEEC8335FB11A0.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsC96F24FD4A85C4BEE901D99516DD3C71.tmp",
     "soundgarden_unreal/Intermediate/CachedAssetRegistry_0.bin.tmp",
     "soundgarden_unreal/Intermediate/TurnkeyReport_1.log",
+    "soundgarden_unreal/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders_temp.ush",
     "soundgarden_unreal/Intermediate/TurnkeyReport_0.log",
-    "soundgarden_unreal/Intermediate/DatasmithContentTemp",
-    "Day.md",
+    "soundgarden_unreal/Saved/Logs/soundgarden-backup-2024.04.17-16.59.14.log",
+    "docs/2024-02-28.md",
     "docs/Soundgarden - Documentation.md",
-    "docs/Tutorial.md",
-    "docs/Procedural Music System.md",
+    "docs/2024-03-13.md",
+    "docs/2024-04-16.md",
+    "docs/2024-04-04.md",
     "docs/2024-04-31.md",
+    "docs/2024-04-18.md",
+    "docs/Tutorial.md",
+    "other/island.png",
+    "other/island_firstversion.png",
+    "docs/2024-02-14.md",
+    "docs/Collectable events.md",
+    "docs/Map.md",
+    "Day.md",
+    "docs/Procedural Music System.md",
     "docs/Gameplay loop.md",
     "docs/Day and night cycle.md",
     "().md",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsDB17681840B5BD1D8791C08D4DD821DE.tmp",
-    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-000073c8-2024-04-15T18.56.07.522Z.log",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings3BA3FAD240978C0F4DAF058B86A7BCCF.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsF9F619BF4B640A9E06C3698939274304.tmp",
-    "soundgarden_unreal/Saved/Logs/soundgarden-backup-2024.04.04-01.01.58.log",
-    "soundgarden_unreal/Saved/Config/CrashReportClient/UECC-Windows-9F767DB54B7F380B98C7B183605E1575/CrashReportClient.ini",
     "docs/Ideapad.md",
     "docs/index.md",
     "docs/doc_gameplay.md",
     "docs/Welcome.md",
-    "docs/2024-02-28.md",
-    "docs/2024-02-14.md",
     "docs/2024-01-31.md",
     "docs/attachments/Pasted image 20240409001242.png",
-    "docs/2024-04-18.md",
-    "docs/2024-04-04.md",
-    "docs/2024-03-13.md",
     "docs/2024-03-26.md",
     "docs/attachments/Pasted image 20240325110056.png",
     "docs/attachments/Pasted image 20240320202008.png",
@@ -214,8 +243,6 @@
     "docs/attachments/Pasted image 20240303172716.png",
     "docs/attachments/Pasted image 20240301190506.png",
     "docs/attachments/Pasted image 20240301185523.png",
-    "docs/attachments/Pasted image 20240229001715.png",
-    "docs/attachments/Pasted image 20240229001624.png",
     "Pasted.md",
     "README.md"
   ]
