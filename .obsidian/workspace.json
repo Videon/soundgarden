@@ -39,7 +39,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-04-16.md",
+                "file": "docs/arc2024-04-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c094374f45291f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/2024-04-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-04-18.md",
+                "file": "docs/arc2024-04-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,14 +75,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-04-31.md",
+                "file": "docs/arc2024-04-31.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2024-04-16.md",
+                "file": "docs/2024-04-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2024-04-16.md",
+                "file": "docs/2024-04-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2024-04-16.md"
+                "file": "docs/2024-04-30.md"
               }
             }
           }
@@ -197,35 +209,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4edfe440dd35eba6",
+  "active": "4c094374f45291f0",
   "lastOpenFiles": [
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsF85C956145E8491B2DCF9AA104596125.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings49DA2B2A45058280F7CDD784FE82D78B.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE83FD9A0454C545D9C512F9A76D45712.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings54C801664AEAFD11758D7FAA7CF250A5.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE9DD339947B104610AD732953900BDB8.tmp",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-000022dc-2024-04-25T01.03.32.685Z.log",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings1ADD215F4400C6746B9219B128A86D40.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings99F11D394A3BF63CC3A76482729D2CA6.tmp",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-000022dc-2024-04-25T01.02.51.193Z.log",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings8A80821043767D7F11D199A1B1C4C61B.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings1322A9D24B7BB5E58093E5BBABF56AC0.tmp",
+    "docs/arc2024-04-31.md",
+    "docs/arc2024-04-18.md",
+    "docs/2024-04-30.md",
+    "docs/2024-04-16.md",
+    "docs/2024-04-04.md",
+    "docs/2024-03-13.md",
+    "docs/2024-02-28.md",
+    "docs/2024-02-14.md",
     "docs/attachments/island_firstversion.png",
     "docs/attachments/island.png",
-    "docs/2024-04-04.md",
     "docs/2024-01-31.md",
-    "docs/2024-02-14.md",
-    "docs/2024-02-28.md",
-    "docs/2024-03-13.md",
-    "docs/2024-04-16.md",
     "docs/attachments/Pasted image 20240417184056.png",
-    "docs/2024-04-31.md",
-    "docs/2024-04-18.md",
     "docs/index.md",
     "docs/Ideapad.md",
     "docs/Gameplay loop.md",
     "docs/Day and night cycle.md",
     "docs/Collectable events.md",
     "docs/Soundgarden - Documentation.md",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsA87DE6314E448713E456268A6894C321.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings3B87E1DC4DC78C3F1B9F39A58DE0E582.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings5C3810D34D2638A15753389F223F881A.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings4F1C1C4A4D47513E8E0DB2BCCC6FA4C6.tmp",
-    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-00002768-2024-04-17T17.44.50.042Z.log",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings944A8C144581E90C62B56CABD0F36F0C.tmp",
-    "soundgarden_unreal/Saved/XPXPOG6IWQ1M3GKAYU6CDK9C1999E44F59541ABBC16899564E2E30.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsCA1B5563406980709D4DBBA7C7E99A55.tmp",
-    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-00002768-2024-04-17T17.41.17.905Z.log",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings69FB44FC4280BD287093E49F304C3212.tmp",
     "docs/attachments/Pasted image 20240417170703.png",
     "docs/Tutorial.md",
     "other/island.png",
@@ -242,8 +256,6 @@
     "docs/attachments/Pasted image 20240320202008.png",
     "www.google.com.md",
     "docs/attachments/Pasted image 20240215154624.png",
-    "docs/attachments/Pasted image 20240304124159.png",
-    "Pasted.md",
-    "README.md"
+    "Pasted.md"
   ]
 }
