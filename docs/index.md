@@ -1,3 +1,4 @@
+**Journal**
 - [2024-01-31](2024-01-31.md)
 - [2024-02-14](2024-02-14.md)
 - [2024-02-28](2024-02-28.md)
@@ -5,3 +6,5 @@
 - [2024-04-04](2024-04-04.md)
 - [2024-04-16](2024-04-16.md)
 
+**Documentation**
+[Soundgarden - Documentation](Soundgarden%20-%20Documentation.md)

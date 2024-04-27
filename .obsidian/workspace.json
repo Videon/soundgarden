@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Tutorial.md",
+                "file": "docs/Gameplay - Tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,19 +34,7 @@
             }
           },
           {
-            "id": "4edfe440dd35eba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/arc2024-04-31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c094374f45291f0",
+            "id": "2223c3f501973cff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,33 +44,29 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "68f794fb5f25b34c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/arc2024-04-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57b9386bc32c62ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/arc2024-04-31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "7386718ad119891b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2959df504ffaaf70",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Soundgarden - Documentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,53 +193,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c094374f45291f0",
+  "active": "2223c3f501973cff",
   "lastOpenFiles": [
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Manifest_UFSFiles_Win64.txt",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Manifest_NonUFSFiles_Win64.txt",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/soundgarden.exe",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/MsQuic/v220/win64",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015",
-    "docs/arc2024-04-31.md",
-    "docs/arc2024-04-18.md",
-    "docs/2024-04-30.md",
     "docs/2024-04-16.md",
     "docs/2024-04-04.md",
     "docs/2024-03-13.md",
     "docs/2024-02-28.md",
     "docs/2024-02-14.md",
-    "docs/attachments/island_firstversion.png",
-    "docs/attachments/island.png",
     "docs/2024-01-31.md",
-    "docs/attachments/Pasted image 20240417184056.png",
     "docs/index.md",
-    "docs/Ideapad.md",
-    "docs/Gameplay loop.md",
-    "docs/Day and night cycle.md",
-    "docs/Collectable events.md",
-    "docs/Soundgarden - Documentation.md",
-    "docs/attachments/Pasted image 20240417170703.png",
-    "docs/Tutorial.md",
-    "other/island.png",
-    "other/island_firstversion.png",
-    "docs/Map.md",
-    "Day.md",
     "docs/Procedural Music System.md",
-    "().md",
-    "docs/doc_gameplay.md",
-    "docs/Welcome.md",
-    "docs/attachments/Pasted image 20240409001242.png",
-    "docs/2024-03-26.md",
-    "docs/attachments/Pasted image 20240325110056.png",
-    "docs/attachments/Pasted image 20240320202008.png",
-    "www.google.com.md",
-    "docs/attachments/Pasted image 20240215154624.png",
-    "Pasted.md"
+    "docs/Sound - General setup.md",
+    "docs/Sound - Main module.md",
+    "docs/Sound - Waves.md",
+    "docs/Soundgarden - Documentation.md",
+    "docs/Gameplay - Tutorial.md",
+    "docs/Gameplay - Map.md",
+    "docs/Collectable events.md",
+    "docs/Day and night cycle.md",
+    "docs/Gameplay - Collectables.md",
+    "docs/Gameplay - Gameplay loop.md",
+    "soundgarden_unreal/Intermediate/CachedAssetRegistry_0.bin.tmp",
+    "soundgarden_unreal/Intermediate/TurnkeyReport_1.log",
+    "soundgarden_unreal/Intermediate/TurnkeyReport_0.log",
+    "soundgarden_unreal/Intermediate/DatasmithContentTemp",
+    "Gameplay.md",
+    "attachments/Pasted image 20240427152040.png",
+    "attachments",
+    "docs/Ideapad.md",
+    "docs/attachments/HighresScreenshot00003.png",
+    "docs/attachments/Pasted image 20240427151128.png",
+    "docs/attachments/Pasted image 20240427144855.png",
+    "docs/attachments/Pasted image 20240427144757.png",
+    "docs/attachments/Pasted image 20240427144514.png",
+    "docs/attachments/Pasted image 20240427144346.png",
+    "docs/attachments/HighresScreenshot00007.png",
+    "docs/attachments/HighresScreenshot00001.png",
+    "docs/attachments/HighresScreenshot00006.png",
+    "docs/arc2024-04-31.md",
+    "docs/arc2024-04-18.md",
+    "docs/2024-04-30.md",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Manifest_UFSFiles_Win64.txt",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Manifest_NonUFSFiles_Win64.txt",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/soundgarden.exe",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll",
+    "Day.md",
+    "docs/doc_gameplay.md"
   ]
 }
