@@ -1,3 +1,6 @@
+[Back to main](index.html)
+
+
 ![](attachments/Pasted%20image%2020240427151128.png)
 The main module of Soundgarden's sound system houses all sound generators, with the exception of 
 

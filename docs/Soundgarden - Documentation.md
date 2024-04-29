@@ -6,19 +6,19 @@
 	4. [Collectables](Gameplay%20-%20Collectables.md)
 	5. [Collectable events](Collectable events)
 3. Ecology
-	1. [Ambience activity](Ecology%20-%20Ambience%20activity.md)
-	2. [Day and night cycle](Ecology%20-%20Day%20and%20night%20cycle.md)
-	3. [Wind](Ecology%20-%20Wind.md)
+	1. [Ambience activity](Ecology_Ambience%20activity.md)
+	2. [Day and night cycle](Ecology_Day-night_cycle.md)
+	3. [Wind](Ecology_Wind.md)
 5. Sound
-	1. [General setup](Sound%20-%20General%20setup.md)
+	1. [General setup](Sound_General_setup.md)
 	2. [Main module](Sound - Main module)
-	3. Percussion
+	3. [Percussion](Sound_Percussion.md)
 	4. Kait
 	5. Melody
 	6. Bass
-	7. [Sound - Frogs](Sound%20-%20Frogs.md)
+	7. [Sound_Frogs](Sound_Frogs.md)
 	8. Parrots
-	9. [Waves](Sound%20-%20Waves.md)
-	10. [Footsteps](Sound%20-%20Footsteps.md)
+	9. [Waves](Sound_Waves.md)
+	10. [Footsteps](Sound_Footsteps.md)
 	11. [Attenuation](Attenuation)
 	12. Reverb

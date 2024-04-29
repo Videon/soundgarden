@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "2223c3f501973cff",
+            "id": "e2e093199ddf2f98",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,24 +46,24 @@
             }
           },
           {
-            "id": "7e4df430cfd77c8b",
+            "id": "7cb920f1da624ff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Ecology - Ambience activity.md",
+                "file": "docs/Soundgarden - Documentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2acd2534ff6ebf2e",
+            "id": "f30f77c7fce560d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Soundgarden - Documentation.md",
+                "file": "docs/Collectable events.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Soundgarden - Documentation.md",
+                "file": "docs/Collectable events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Soundgarden - Documentation.md",
+                "file": "docs/Collectable events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Soundgarden - Documentation.md"
+                "file": "docs/Collectable events.md"
               }
             }
           }
@@ -197,24 +197,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2acd2534ff6ebf2e",
+  "active": "f30f77c7fce560d3",
   "lastOpenFiles": [
-    "soundgarden_unreal/Intermediate/CachedAssetRegistry_0.bin.tmp",
-    "soundgarden_unreal/Intermediate/TurnkeyReport_1.log",
-    "soundgarden_unreal/Intermediate/TurnkeyReport_0.log",
-    "soundgarden_unreal/Intermediate/DatasmithContentTemp",
-    "docs/index.md",
-    "docs/Ecology - Ambience activity.md",
-    "docs/Soundgarden - Documentation.md",
-    "docs/Sound - Footsteps.md",
-    "docs/Collectable events.md",
-    "docs/Ecology - Day and night cycle.md",
-    "docs/Ecology - Wind.md",
+    "docs/Ecology_Ambience activity.md",
+    "docs/Ecology_Day-night_cycle.md",
+    "docs/Ecology_Wind.md",
     "docs/Gameplay - Collectables.md",
     "docs/Gameplay - Gameplay loop.md",
     "docs/Gameplay - Map.md",
     "docs/Gameplay - Tutorial.md",
-    "docs/Sound - Frogs.md",
+    "docs/Sound_Waves.md",
+    "docs/Sound_Percussion.md",
+    "docs/Sound_Main.md",
+    "docs/Sound_General_setup.md",
+    "docs/Sound_Frogs.md",
+    "docs/Sound_Footsteps.md",
+    "docs/Procedural Music System.md",
+    "Sound_Kait.md",
+    "docs/Soundgarden - Documentation.md",
+    "README.md",
+    "Pasted.md",
+    "docs/2024-02-28.md",
+    "www.google.com.md",
+    "docs/index.md",
+    "Soundgarden - Documentation.html.md",
+    "soundgarden_unreal/Intermediate/CachedAssetRegistry_0.bin.tmp",
+    "soundgarden_unreal/Intermediate/TurnkeyReport_1.log",
+    "soundgarden_unreal/Intermediate/TurnkeyReport_0.log",
+    "soundgarden_unreal/Intermediate/DatasmithContentTemp",
+    "docs/Collectable events.md",
     "docs/2024-04-30.md",
     "Day.md",
     "soundgarden_unreal/Content/Audio/SubmixPreset_ToBeach.uasset",
@@ -224,16 +235,6 @@
     "soundgarden_unreal/Content/Audio/SubmixPreset_Swamp.uasset",
     "soundgarden_unreal/Content/Blueprints/MPC_GlobalWind.uasset",
     "docs/2024-04-16.md",
-    "docs/2024-04-04.md",
-    "docs/2024-03-13.md",
-    "docs/2024-02-28.md",
-    "docs/2024-02-14.md",
-    "docs/2024-01-31.md",
-    "docs/Procedural Music System.md",
-    "docs/Sound - General setup.md",
-    "docs/Sound - Main module.md",
-    "docs/Sound - Waves.md",
-    "Gameplay.md",
     "attachments/Pasted image 20240427152040.png",
     "docs/attachments/HighresScreenshot00003.png",
     "docs/attachments/Pasted image 20240427151128.png",
