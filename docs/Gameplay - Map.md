@@ -1,3 +1,6 @@
+[Back to index](Soundgarden%20-%20Documentation.md)
+
+
 The main areas consist of a swamp, beach, and hillside outlook, as well as a cave, and an elevated path around the swamp on the edge of the island.
 
 **Swamp**

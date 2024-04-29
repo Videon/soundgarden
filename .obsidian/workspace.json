@@ -39,34 +39,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-04-30.md",
+                "file": "docs/Soundgarden - Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e4df430cfd77c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Ecology - Ambience activity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2acd2534ff6ebf2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "7386718ad119891b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2959df504ffaaf70",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Soundgarden - Documentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2024-04-30.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2024-04-30.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2024-04-30.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -193,8 +197,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2223c3f501973cff",
+  "active": "2acd2534ff6ebf2e",
   "lastOpenFiles": [
+    "docs/Collectable events.md",
+    "docs/Ecology - Ambience activity.md",
+    "docs/Ecology - Day and night cycle.md",
+    "docs/Ecology - Wind.md",
+    "docs/Gameplay - Collectables.md",
+    "docs/Gameplay - Gameplay loop.md",
+    "docs/Gameplay - Map.md",
+    "docs/Gameplay - Tutorial.md",
+    "docs/Soundgarden - Documentation.md",
+    "docs/Sound - Frogs.md",
+    "docs/2024-04-30.md",
+    "Day.md",
     "soundgarden_unreal/Content/Audio/SubmixPreset_ToBeach.uasset",
     "soundgarden_unreal/Content/Audio/SubmixPreset_Beach.uasset",
     "soundgarden_unreal/Content/Audio/SubmixPreset_Cave.uasset",
@@ -205,7 +221,6 @@
     "soundgarden_unreal/Intermediate/TurnkeyReport_0.log",
     "soundgarden_unreal/Intermediate/DatasmithContentTemp",
     "soundgarden_unreal/Content/Blueprints/MPC_GlobalWind.uasset",
-    "soundgarden_unreal/Content/Blueprints/BP_GlobalWind.uasset",
     "docs/2024-04-16.md",
     "docs/2024-04-04.md",
     "docs/2024-03-13.md",
@@ -217,13 +232,6 @@
     "docs/Sound - General setup.md",
     "docs/Sound - Main module.md",
     "docs/Sound - Waves.md",
-    "docs/Soundgarden - Documentation.md",
-    "docs/Gameplay - Tutorial.md",
-    "docs/Gameplay - Map.md",
-    "docs/Collectable events.md",
-    "docs/Day and night cycle.md",
-    "docs/Gameplay - Collectables.md",
-    "docs/Gameplay - Gameplay loop.md",
     "Gameplay.md",
     "attachments/Pasted image 20240427152040.png",
     "docs/Ideapad.md",
@@ -236,10 +244,6 @@
     "docs/attachments/HighresScreenshot00007.png",
     "docs/attachments/HighresScreenshot00001.png",
     "docs/attachments/HighresScreenshot00006.png",
-    "docs/arc2024-04-31.md",
-    "docs/arc2024-04-18.md",
-    "docs/2024-04-30.md",
-    "Day.md",
-    "docs/doc_gameplay.md"
+    "docs/arc2024-04-31.md"
   ]
 }

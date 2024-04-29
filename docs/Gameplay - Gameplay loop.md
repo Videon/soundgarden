@@ -1,3 +1,4 @@
 [Back to index](Soundgarden%20-%20Documentation.md)
 
+
 The main gameplay loop consists of the player moving around the island in first-person view, searching and collecting stones. Whenever the player collects a stone, another stone will spawn in a location that is a certain distance away from the player. This is to ensure that the player will always need to roam around before finding the next stone.

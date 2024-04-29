@@ -1,4 +1,3 @@
 [Back to index](Soundgarden%20-%20Documentation.md)
 
 
-![](attachments/Pasted%20image%2020240427152040.png)
