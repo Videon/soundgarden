@@ -19,6 +19,6 @@
 	7. [Sound - Frogs](Sound%20-%20Frogs.md)
 	8. Parrots
 	9. [Waves](Sound%20-%20Waves.md)
-	10. Footsteps
+	10. [Footsteps](Sound%20-%20Footsteps.md)
 	11. [Attenuation](Attenuation)
 	12. Reverb

@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Soundgarden - Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Soundgarden - Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Soundgarden - Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Soundgarden - Documentation.md"
               }
             }
           }
@@ -199,15 +199,21 @@
   },
   "active": "2acd2534ff6ebf2e",
   "lastOpenFiles": [
-    "docs/Collectable events.md",
+    "soundgarden_unreal/Intermediate/CachedAssetRegistry_0.bin.tmp",
+    "soundgarden_unreal/Intermediate/TurnkeyReport_1.log",
+    "soundgarden_unreal/Intermediate/TurnkeyReport_0.log",
+    "soundgarden_unreal/Intermediate/DatasmithContentTemp",
+    "docs/index.md",
     "docs/Ecology - Ambience activity.md",
+    "docs/Soundgarden - Documentation.md",
+    "docs/Sound - Footsteps.md",
+    "docs/Collectable events.md",
     "docs/Ecology - Day and night cycle.md",
     "docs/Ecology - Wind.md",
     "docs/Gameplay - Collectables.md",
     "docs/Gameplay - Gameplay loop.md",
     "docs/Gameplay - Map.md",
     "docs/Gameplay - Tutorial.md",
-    "docs/Soundgarden - Documentation.md",
     "docs/Sound - Frogs.md",
     "docs/2024-04-30.md",
     "Day.md",
@@ -216,10 +222,6 @@
     "soundgarden_unreal/Content/Audio/SubmixPreset_Cave.uasset",
     "soundgarden_unreal/Content/Audio/SubmixPreset_Hill.uasset",
     "soundgarden_unreal/Content/Audio/SubmixPreset_Swamp.uasset",
-    "soundgarden_unreal/Intermediate/CachedAssetRegistry_0.bin.tmp",
-    "soundgarden_unreal/Intermediate/TurnkeyReport_1.log",
-    "soundgarden_unreal/Intermediate/TurnkeyReport_0.log",
-    "soundgarden_unreal/Intermediate/DatasmithContentTemp",
     "soundgarden_unreal/Content/Blueprints/MPC_GlobalWind.uasset",
     "docs/2024-04-16.md",
     "docs/2024-04-04.md",
@@ -227,14 +229,12 @@
     "docs/2024-02-28.md",
     "docs/2024-02-14.md",
     "docs/2024-01-31.md",
-    "docs/index.md",
     "docs/Procedural Music System.md",
     "docs/Sound - General setup.md",
     "docs/Sound - Main module.md",
     "docs/Sound - Waves.md",
     "Gameplay.md",
     "attachments/Pasted image 20240427152040.png",
-    "docs/Ideapad.md",
     "docs/attachments/HighresScreenshot00003.png",
     "docs/attachments/Pasted image 20240427151128.png",
     "docs/attachments/Pasted image 20240427144855.png",
@@ -243,7 +243,6 @@
     "docs/attachments/Pasted image 20240427144346.png",
     "docs/attachments/HighresScreenshot00007.png",
     "docs/attachments/HighresScreenshot00001.png",
-    "docs/attachments/HighresScreenshot00006.png",
-    "docs/arc2024-04-31.md"
+    "docs/attachments/HighresScreenshot00006.png"
   ]
 }
