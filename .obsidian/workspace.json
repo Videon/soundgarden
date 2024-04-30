@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfd63a3b5af5cade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Gameplay - Tutorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "695d7a52f5cca136",
+            "id": "40c65b7f13f8432d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -34,79 +22,43 @@
             }
           },
           {
-            "id": "e2e093199ddf2f98",
+            "id": "c8e3dfb6f1bb5c77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Soundgarden_Documentation.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7cb920f1da624ff9",
+            "id": "5458263dade64e75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Soundgarden_Documentation.md",
+                "file": "docs/Sound_Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f30f77c7fce560d3",
+            "id": "f86b0b5d056509e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Soundgarden_Documentation.md",
+                "file": "docs/Sound_Percussion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "981b43f7611cf761",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Sound_Kait.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a20349c5c5f72bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Soundgarden_Documentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb03862ce938c94f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Sound_Ocean_and_Bass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e3d46a4c2b96a60",
+            "id": "f49f29b692a03509",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -118,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2024-04-30.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2024-04-30.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2024-04-30.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -245,52 +197,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e3d46a4c2b96a60",
+  "active": "c8e3dfb6f1bb5c77",
   "lastOpenFiles": [
-    "docs/Sound_Reverb.md",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/0/2Q/WGI5XN1C2AT77IJ2SOQT0J.uasset",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/0/2Q",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/4/I7/OQ8KLP9SIFJQBUXYIK4AA5.uasset",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/4/I7",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/0/R5/QDTXFKDTAQZVB7J037M9Y5.uasset",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/0/R5",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/9/PY/87N3J6F1PPMT3XWYT6OX1Z.uasset",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/9/PY",
-    "docs/attachments/Pasted image 20240429231944.png",
+    "docs/2024-04-30.md",
+    "docs/arc2024-04-18.md",
+    "docs/arc2024-04-31.md",
+    "Sound_Global_parameters.md",
+    "docs/Ecology_Ambience_activity.md",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/3/GU/XMMG1EU4FRTQJ1DMEXMFTF.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/0/0L/2P3IXFKM9J8XPD9FPEUAT8.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/0/0L",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/B/DI/0Q81F7M9AO0E55OQ64BCQH.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/B/DI",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/4/UB/L1HFZ2WAJI3BKN4A88GDZY.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/4/UB",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/9/FR/884OHISPWM6APWE235VG2C.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/9/FR",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/2/SD/WPGAS3VOTHV5ICO1G6DJXI.uasset",
     "docs/Soundgarden_Documentation.md",
-    "docs/Gameplay - Collectables.md",
-    "docs/Ecology_Ambience activity.md",
+    "docs/Sound_Wind.md",
+    "docs/Sound_Waves.md",
+    "docs/Sound_Percussion.md",
+    "docs/Sound_Overview.md",
+    "Sound_Dynamic_sounds.md",
     "docs/Ecology_Day-night_cycle.md",
-    "docs/Ecology_Wind.md",
-    "docs/Gameplay - Gameplay loop.md",
-    "docs/Gameplay - Map.md",
-    "docs/Gameplay - Tutorial.md",
-    "docs/Procedural Music System.md",
-    "docs/Sound_Footsteps.md",
     "docs/Sound_Frogs.md",
     "docs/Sound_Gamelan.md",
     "docs/Sound_Kait.md",
-    "docs/Sound_Ocean_and_Bass.md",
-    "docs/Sound_Overview.md",
-    "docs/Sound_Parrots.md",
-    "docs/Sound_Percussion.md",
-    "docs/Sound_Waves.md",
-    "README.md",
-    "Kait.md",
-    "docs/Sound_General_setup.md",
-    "docs/index.md",
-    "docs/Collectable events.md",
-    "Untitled",
-    "soundgarden_unreal/Content/Audio/Buses/BUS_Bass.uasset",
-    "docs/Ideapad.md",
-    "attachments/Pasted image 20240427152040.png",
-    "docs/attachments/HighresScreenshot00003.png",
-    "docs/attachments/Pasted image 20240427151128.png",
-    "docs/attachments/Pasted image 20240427144855.png",
-    "docs/attachments/Pasted image 20240427144757.png",
-    "docs/attachments/Pasted image 20240427144514.png",
-    "docs/attachments/Pasted image 20240427144346.png",
-    "docs/attachments/HighresScreenshot00007.png",
-    "docs/attachments/HighresScreenshot00001.png"
+    "docs/Ecology_Activity_curves.md",
+    "docs/Gameplay_Game_controller.md",
+    "docs/Gameplay_Collectable_events.md",
+    "docs/Gameplay_Collectables.md",
+    "docs/Gameplay_Map.md",
+    "docs/Gameplay_Gameplay_loop.md",
+    "docs/Gameplay_Tutorial.md",
+    "docs/General_information.md",
+    "Collectable.md",
+    "docs/Sound_Footsteps.md",
+    "Attenuation.md",
+    "docs/attachments/Pasted image 20240430111654.png",
+    "docs/attachments/Pasted image 20240430111553.png",
+    "docs/attachments/Pasted image 20240430110856.png",
+    "docs/attachments/Pasted image 20240430110842.png",
+    "docs/attachments/Pasted image 20240430110736.png",
+    "docs/attachments/Pasted image 20240430110714.png",
+    "docs/attachments/HighresScreenshot00010.png",
+    "docs/attachments/island 1.png",
+    "docs/attachments/island.png",
+    "docs/attachments/HighresScreenshot00008.png"
   ]
 }

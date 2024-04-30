@@ -1,18 +1,18 @@
-1. General information
+1. [General information](General_information.md)
 2. Gameplay
-	1. [Tutorial](Gameplay%20-%20Tutorial.md)
-	2. [Gameplay loop](Gameplay%20-%20Gameplay%20loop.md)
-	3. [Map](Gameplay%20-%20Map.md)
-	4. [Collectables](Gameplay%20-%20Collectables.md)
-	5. [Collectable events](Collectable events)
-	6. Game controller
+	1. [Tutorial](Gameplay_Tutorial.md)
+	2. [Gameplay loop](Gameplay_Gameplay_loop.md)
+	3. [Map](Gameplay_Map.md)
+	4. [Collectables](Gameplay_Collectables.md)
+	5. [Collectable events](Gameplay_Collectable_events.md)
+	6. [Game controller](Gameplay_Game_controller.md)
 3. Ecology
-	1. [Ambience activity](Ecology_Ambience%20activity.md)
-	2. [Day and night cycle](Ecology_Day-night_cycle.md)
-	3. [Wind](Ecology_Wind.md)
+	1. [Day and night cycle](Ecology_Day-night_cycle.md)
+	2. [Ambience activity](Ecology_Ambience_activity.md)
+	3. [Activity curves](Ecology_Activity_curves.md)
 4. Sound
-	1. [Sound_Overview](Sound_Overview.md)
-	2. [Main module](Sound - Main module)
+	1. [Overview](Sound_Overview.md)
+	2. Global parameters
 	3. [Percussion](Sound_Percussion.md)
 	4. [Kait](Sound_Kait.md)
 	5. [Gamelan](Sound_Gamelan.md)
@@ -20,6 +20,7 @@
 	7. [Frogs](Sound_Frogs.md)
 	8. [Parrots](Sound_Parrots.md)
 	9. [Waves](Sound_Waves.md)
-	10. [Footsteps](Sound_Footsteps.md)
-	11. [Attenuation](Attenuation)
-	12. [Reverb](Sound_Reverb.md)
+	10. [Wind](Sound_Wind.md)
+	11. [Footsteps](Sound_Footsteps.md)
+	12. [Attenuation](Attenuation)
+	13. [Reverb](Sound_Reverb.md)
