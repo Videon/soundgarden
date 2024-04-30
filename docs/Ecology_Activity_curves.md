@@ -1,5 +1,7 @@
 [Back to index](Soundgarden_Documentation.md)
 
+# Ecology: Activity curves
+
 
 Activity curves are used to transform observed values into levels of activity. Multiple entities may observe the same value but may interpret it differently: For example, both the activity of parrots and crickets depend on the sun intensity. However, where parrots are active during high levels of sun intensity, crickets are only active during low levels. 
 

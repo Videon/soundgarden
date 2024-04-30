@@ -1,5 +1,7 @@
 [Back to index](Soundgarden_Documentation.md)
 
+# Gameplay: Collectables
+
 
 The player's main activity is to find and collect stones. Stones emanate a faint light, which makes it easier to spot them from a distance when it's dark.
 

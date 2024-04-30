@@ -1,0 +1,6 @@
+[Back to index](Soundgarden_Documentation.md)
+
+# Sound: Attenuation
+
+Attenuation defines the behavior of a sound in relation to the player position and head direction (i.e., where the first-person camera points). It is used to occlude sound, either by completely fading them out when there is no direct line of sight between the sound source and the player, or by applying a low-pass filter, simulating how a sound might sound like from behind a wall. In Soundgarden, different sounds have different attenuation settings. For example, the [wind ambience](Sound_Wind.md) only passes sound below 200hz when the player moves in the inner part of the island or the cave, which results in a basic room- or world-tone, an ever-present noise that can often be heard on recordings of real-world environments.
+Attenuation is also extensively used to define how far musical objects sound in the environment. Since the player is moving most of the time, the musical soundscape is always changing, rearranging the positions of voices in the stereo spectrum.

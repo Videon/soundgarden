@@ -1,5 +1,7 @@
 [Back to index](Soundgarden_Documentation.md)
 
+# Gameplay: Tutorial
+
 
 At the start of the game, the player passes through a tutorial, aimed at familiarizing them with the gameplay mechanics and the layout of the island. In this phase, [stones](Gameplay_Collectables.md) will spawn in the player’s view. Early in the tutorial, the player will pass by an illustration that depicts the game mechanic.
 

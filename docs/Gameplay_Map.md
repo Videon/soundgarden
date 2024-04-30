@@ -1,5 +1,7 @@
 [Back to index](Soundgarden_Documentation.md)
 
+# Gameplay: Map
+
 
 The island's main areas consist of a swamp in its center, a beach in the east, hillside outlook (eye symbol), a cave in the south, and an elevated path around the swamp on the edge of the island.
 

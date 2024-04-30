@@ -1,5 +1,7 @@
 [Back to index](Soundgarden_Documentation.md)
 
+# Gameplay: Collectable events 
+
 **1. Day-night cycle**
 The [day-night cycle](Ecology_Day-night_cycle.md) begins.
 
