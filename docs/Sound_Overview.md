@@ -1,8 +1,8 @@
-[Back to main](index.html)
+[Back to index](Soundgarden_Documentation.md)
 
 
 ![](attachments/Pasted%20image%2020240427151128.png)
-The main module of Soundgarden's sound system houses all sound generators, with the exception of 
+The main module of Soundgarden's sound system houses all sound generators, with the exception of [ambience activity sounds](Ecology_Ambience%20activity.md).
 
 The clock allows to set the music tempo. In its current implementation, the clock will subdivide a beat into fourths. The clock sends global triggers, which are mainly used to trigger different instruments but can also be used to trigger game events. Triggers are sent whenever the global bar loops, and on full, half, and quarter divisions.
 ![](attachments/Pasted%20image%2020240427144757.png)

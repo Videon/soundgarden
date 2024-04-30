@@ -1,4 +1,4 @@
-[Back to index](Soundgarden%20-%20Documentation.md)
+[Back to index](Soundgarden_Documentation.md)
 
 **1. Day-night cycle**
 The day-night cycle begins.

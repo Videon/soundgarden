@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Soundgarden - Documentation.md",
+                "file": "docs/Soundgarden_Documentation.md",
                 "mode": "source",
                 "source": false
               },
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Soundgarden - Documentation.md",
+                "file": "docs/Soundgarden_Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Soundgarden - Documentation.md",
+                "file": "docs/Soundgarden_Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,14 +63,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Collectable events.md",
+                "file": "docs/Soundgarden_Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "981b43f7611cf761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sound_Kait.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a20349c5c5f72bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Soundgarden_Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb03862ce938c94f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sound_Ocean_and_Bass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e3d46a4c2b96a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/2024-04-30.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -136,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Collectable events.md",
+                "file": "docs/2024-04-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Collectable events.md",
+                "file": "docs/2024-04-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Collectable events.md"
+                "file": "docs/2024-04-30.md"
               }
             }
           }
@@ -197,44 +245,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f30f77c7fce560d3",
+  "active": "9e3d46a4c2b96a60",
   "lastOpenFiles": [
+    "docs/Sound_Reverb.md",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/0/2Q/WGI5XN1C2AT77IJ2SOQT0J.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/0/2Q",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/4/I7/OQ8KLP9SIFJQBUXYIK4AA5.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/4/I7",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/0/R5/QDTXFKDTAQZVB7J037M9Y5.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/0/R5",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/9/PY/87N3J6F1PPMT3XWYT6OX1Z.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/9/PY",
+    "docs/attachments/Pasted image 20240429231944.png",
+    "docs/Soundgarden_Documentation.md",
+    "docs/Gameplay - Collectables.md",
     "docs/Ecology_Ambience activity.md",
     "docs/Ecology_Day-night_cycle.md",
     "docs/Ecology_Wind.md",
-    "docs/Gameplay - Collectables.md",
     "docs/Gameplay - Gameplay loop.md",
     "docs/Gameplay - Map.md",
     "docs/Gameplay - Tutorial.md",
-    "docs/Sound_Waves.md",
-    "docs/Sound_Percussion.md",
-    "docs/Sound_Main.md",
-    "docs/Sound_General_setup.md",
-    "docs/Sound_Frogs.md",
-    "docs/Sound_Footsteps.md",
     "docs/Procedural Music System.md",
-    "Sound_Kait.md",
-    "docs/Soundgarden - Documentation.md",
+    "docs/Sound_Footsteps.md",
+    "docs/Sound_Frogs.md",
+    "docs/Sound_Gamelan.md",
+    "docs/Sound_Kait.md",
+    "docs/Sound_Ocean_and_Bass.md",
+    "docs/Sound_Overview.md",
+    "docs/Sound_Parrots.md",
+    "docs/Sound_Percussion.md",
+    "docs/Sound_Waves.md",
     "README.md",
-    "Pasted.md",
-    "docs/2024-02-28.md",
-    "www.google.com.md",
+    "Kait.md",
+    "docs/Sound_General_setup.md",
     "docs/index.md",
-    "Soundgarden - Documentation.html.md",
-    "soundgarden_unreal/Intermediate/CachedAssetRegistry_0.bin.tmp",
-    "soundgarden_unreal/Intermediate/TurnkeyReport_1.log",
-    "soundgarden_unreal/Intermediate/TurnkeyReport_0.log",
-    "soundgarden_unreal/Intermediate/DatasmithContentTemp",
     "docs/Collectable events.md",
-    "docs/2024-04-30.md",
-    "Day.md",
-    "soundgarden_unreal/Content/Audio/SubmixPreset_ToBeach.uasset",
-    "soundgarden_unreal/Content/Audio/SubmixPreset_Beach.uasset",
-    "soundgarden_unreal/Content/Audio/SubmixPreset_Cave.uasset",
-    "soundgarden_unreal/Content/Audio/SubmixPreset_Hill.uasset",
-    "soundgarden_unreal/Content/Audio/SubmixPreset_Swamp.uasset",
-    "soundgarden_unreal/Content/Blueprints/MPC_GlobalWind.uasset",
-    "docs/2024-04-16.md",
+    "Untitled",
+    "soundgarden_unreal/Content/Audio/Buses/BUS_Bass.uasset",
+    "docs/Ideapad.md",
     "attachments/Pasted image 20240427152040.png",
     "docs/attachments/HighresScreenshot00003.png",
     "docs/attachments/Pasted image 20240427151128.png",
@@ -243,7 +291,6 @@
     "docs/attachments/Pasted image 20240427144514.png",
     "docs/attachments/Pasted image 20240427144346.png",
     "docs/attachments/HighresScreenshot00007.png",
-    "docs/attachments/HighresScreenshot00001.png",
-    "docs/attachments/HighresScreenshot00006.png"
+    "docs/attachments/HighresScreenshot00001.png"
   ]
 }

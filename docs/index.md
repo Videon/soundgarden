@@ -1,5 +1,5 @@
 **Documentation**
-[Soundgarden - Documentation](Soundgarden%20-%20Documentation.md)
+[Soundgarden_Documentation](Soundgarden_Documentation.md)
 
 **Journal**
 - [2024-01-31](2024-01-31.md)
