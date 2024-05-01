@@ -1,7 +1,5 @@
 [Back to index](Soundgarden_Documentation.md)
 
-[Back to index](Soundgarden_Documentation.md)
-
 # Sound: Overview
 
 ![](attachments/Pasted%20image%2020240427151128.png)

@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0513c8b4ac414579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Ecology_Ambience_activity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Soundgarden_Documentation.md",
+                "file": "docs/Ecology_Ambience_activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Soundgarden_Documentation.md",
+                "file": "docs/Ecology_Ambience_activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Soundgarden_Documentation.md"
+                "file": "docs/Ecology_Ambience_activity.md"
               }
             }
           }
@@ -148,14 +161,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40c65b7f13f8432d",
+  "active": "0513c8b4ac414579",
   "lastOpenFiles": [
-    "docs/Procedural Music System.md",
-    "docs/Ecology_Activity_curves.md",
-    "docs/Ecology_Ambience_activity.md",
-    "docs/Ecology_Day-night_cycle.md",
+    "docs/Soundgarden_Documentation.md",
     "docs/Gameplay_Collectables.md",
     "docs/Gameplay_Collectable_events.md",
+    "docs/Sound_Overview.md",
+    "docs/Sound_Parrots.md",
+    "docs/Sound_Percussion.md",
+    "docs/Sound_Reverb.md",
+    "docs/Sound_Trees.md",
+    "docs/Sound_Wind.md",
+    "docs/Ecology_Ambience_activity.md",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Manifest_UFSFiles_Win64.txt",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/MsQuic/v220/win64",
+    "docs/Procedural Music System.md",
+    "docs/Ecology_Activity_curves.md",
+    "docs/Ecology_Day-night_cycle.md",
     "docs/Gameplay_Game_controller.md",
     "docs/Gameplay_Gameplay_loop.md",
     "docs/Gameplay_Map.md",
@@ -168,33 +198,15 @@
     "docs/Sound_Global_parameters.md",
     "docs/Sound_Kait.md",
     "docs/Sound_Ocean_and_Bass.md",
-    "docs/Sound_Overview.md",
-    "docs/Sound_Wind.md",
-    "docs/Sound_Trees.md",
-    "docs/Sound_Reverb.md",
-    "docs/Sound_Percussion.md",
-    "docs/Sound_Parrots.md",
-    "docs/Soundgarden_Documentation.md",
     "docs/attachments/Pasted image 20240430165838.png",
     "docs/attachments/Pasted image 20240430165759.png",
     "docs/attachments/HighresScreenshot00012.png",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/3/IP/X2XLB0SK69VQZNE2QK6BC7.uasset",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/3/IP",
     "docs/attachments/Pasted image 20240430165027.png",
-    "docs/2024-04-30.md",
     "docs/attachments/Pasted image 20240430163607.png",
     "docs/attachments/Pasted image 20240430161418.png",
     "docs/attachments/Pasted image 20240430160430.png",
     "docs/attachments/Pasted image 20240430154745.png",
     "docs/attachments/Pasted image 20240430151408.png",
-    "docs/attachments/Pasted image 20240430150737.png",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/3/GU/XMMG1EU4FRTQJ1DMEXMFTF.uasset",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/0/0L/2P3IXFKM9J8XPD9FPEUAT8.uasset",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/0/0L",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/B/DI/0Q81F7M9AO0E55OQ64BCQH.uasset",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/B/DI",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/4/UB/L1HFZ2WAJI3BKN4A88GDZY.uasset",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/4/UB",
-    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/9/FR/884OHISPWM6APWE235VG2C.uasset"
+    "docs/attachments/Pasted image 20240430150737.png"
   ]
 }
