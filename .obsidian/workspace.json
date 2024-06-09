@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-04-30.md",
+                "file": "docs/2024-06-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2024-04-30.md",
+                "file": "docs/2024-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2024-04-30.md",
+                "file": "docs/2024-06-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2024-04-30.md"
+                "file": "docs/2024-06-07.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "d4087693abfdd1ab",
   "lastOpenFiles": [
+    "docs/2024-04-16.md",
+    "docs/2024-06-07.md",
+    "docs/Sound_Gamelan.md",
+    "docs/Ideapad.md",
+    "docs/arc2024-04-31.md",
+    "docs/arc2024-04-18.md",
     "docs/Soundgarden_Documentation.md",
     "docs/Sound_Attenuation.md",
     "docs/Ecology_Ambience_activity.md",
@@ -178,11 +184,6 @@
     "docs/Gameplay_Tutorial.md",
     "docs/General_information.md",
     "docs/Sound_Footsteps.md",
-    "docs/Sound_Frogs.md",
-    "docs/Sound_Gamelan.md",
-    "docs/Sound_Global_parameters.md",
-    "docs/Sound_Kait.md",
-    "docs/Sound_Ocean_and_Bass.md",
     "docs/attachments/Pasted image 20240430165838.png",
     "docs/attachments/Pasted image 20240430165759.png",
     "docs/attachments/HighresScreenshot00012.png",
