@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45331b2127329cdb",
+            "id": "8f7a76a91965c3fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/2024-10-03.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/2024-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/2024-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/2024-10-03.md"
+              }
             }
           }
         ]
@@ -138,24 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45331b2127329cdb",
+  "active": "8f7a76a91965c3fe",
   "lastOpenFiles": [
-    "docs/index.md",
-    "docs/General_information.md",
-    "docs/index 1.md",
-    "README.md",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE11220C849988A062D59BEBA8C7B306A.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsB140D119441CD767CC369EB3F5737D99.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings60DA71C642F45FC6DF87DABB4B78B7F2.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsAEC5197749FC9A81C65DFE85817ABB48.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings8E69B11E456E733600CF83A20ED90163.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings7C4E574B4D238D567CCCED891F25AC33.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings2D5202EF45F2808C1F7388BF05414E35.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings0CEEF4624244F5D29BB3C38A02CDA8C6.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsA4CCCD854C05AB994FF18A86A01215E7.tmp",
-    "soundgarden_unreal/Saved/ENV_BusReader4A73BFBEE41C3E28D395C74B297646DC1.tmp",
     "docs/2024-06-07.md",
     "docs/2024-04-16.md",
+    "docs/2024-10-03.md",
+    "docs/2024-04-04.md",
+    "docs/index.md",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsFA9680324517FFDFD7A399A5C1AAFC3F.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE8F77F714A4617F0AED831B258D09066.tmp",
+    "soundgarden_unreal/Saved/MS_RhythmDE8523334FCF6ED3F8C39B987D73245B.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings3E7F7C294858E7D0EBA224BE1EB618AB.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsB3D1F94447F936DEE4058486BC472FD1.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings268B0AA343060F63CB481BBD2C821607.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsCCB490E742C0B92BE9DAB185AEAD3A3E.tmp",
+    "soundgarden_unreal/Saved/MS_Rhythm597E46154CAA28B64C00BE920B5A2778.tmp",
+    "soundgarden_unreal/Saved/MS_Rhythm6B69B601402FB5702349408CC08321B8.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings9384F91A4DBEDBA789015F892D98692F.tmp",
+    "docs/Ideapad.md",
+    "docs/General_information.md",
+    "docs/attachments/Pasted image 20241003122428.png",
+    "docs/2024-03-13.md",
+    "docs/2024-02-28.md",
+    "docs/2024-02-14.md",
+    "docs/2024-01-31.md",
+    "docs/index 1.md",
+    "README.md",
     "docs/arc2024-04-30.md",
     "docs/attachments/Pasted image 20240609120144.png",
     "docs/attachments/Pasted image 20240609120053.png",
@@ -171,20 +187,11 @@
     "docs/Sound_Reverb.md",
     "docs/Sound_Trees.md",
     "docs/Sound_Wind.md",
-    "docs/Procedural Music System.md",
-    "docs/Ecology_Activity_curves.md",
-    "docs/Ecology_Day-night_cycle.md",
-    "docs/Gameplay_Game_controller.md",
-    "docs/Gameplay_Gameplay_loop.md",
-    "docs/Gameplay_Map.md",
-    "docs/Gameplay_Tutorial.md",
-    "docs/Sound_Footsteps.md",
     "docs/attachments/Pasted image 20240430165838.png",
     "docs/attachments/Pasted image 20240430165759.png",
     "docs/attachments/HighresScreenshot00012.png",
     "docs/attachments/Pasted image 20240430165027.png",
     "docs/attachments/Pasted image 20240430163607.png",
-    "docs/attachments/Pasted image 20240430161418.png",
-    "docs/attachments/Pasted image 20240430160430.png"
+    "docs/attachments/Pasted image 20240430161418.png"
   ]
 }
