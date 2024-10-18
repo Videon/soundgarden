@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c44ca50780547918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/2024-10-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,23 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f7a76a91965c3fe",
+  "active": "c44ca50780547918",
   "lastOpenFiles": [
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE870D72C40FFDA0130B28AB978FD6A7B.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings418170E7431F033054F31E813211DB8C.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings9905334A4DEDCD6BAA49B0997CE16B5D.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsD3DF1DE0425830EFCB4807815DDA782D.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings41D1B73E40B59E0BCF9AFC8F056D53E9.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings14FCE6F14E27476699F800B21A5323F3.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings1698F8134843E0685EB058B2D85F4622.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsCE07F87D4FB1A7E2B129EE8AF2F88750.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsD75DDAAB45F0897D42C032B944A0F05B.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings3CE2E42D407E4A1F7E4CD3B9B6400166.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings3FF2DA0D4801FA660F07F1B49E7DE911.tmp",
+    "docs/2024-10-18.md",
+    "docs/2024-10-03.md",
     "docs/2024-06-07.md",
     "docs/2024-04-16.md",
-    "docs/2024-10-03.md",
     "docs/2024-04-04.md",
     "docs/index.md",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsFA9680324517FFDFD7A399A5C1AAFC3F.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE8F77F714A4617F0AED831B258D09066.tmp",
-    "soundgarden_unreal/Saved/MS_RhythmDE8523334FCF6ED3F8C39B987D73245B.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings3E7F7C294858E7D0EBA224BE1EB618AB.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsB3D1F94447F936DEE4058486BC472FD1.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings268B0AA343060F63CB481BBD2C821607.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsCCB490E742C0B92BE9DAB185AEAD3A3E.tmp",
-    "soundgarden_unreal/Saved/MS_Rhythm597E46154CAA28B64C00BE920B5A2778.tmp",
-    "soundgarden_unreal/Saved/MS_Rhythm6B69B601402FB5702349408CC08321B8.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings9384F91A4DBEDBA789015F892D98692F.tmp",
     "docs/Ideapad.md",
     "docs/General_information.md",
     "docs/attachments/Pasted image 20241003122428.png",
@@ -186,7 +201,6 @@
     "docs/Sound_Percussion.md",
     "docs/Sound_Reverb.md",
     "docs/Sound_Trees.md",
-    "docs/Sound_Wind.md",
     "docs/attachments/Pasted image 20240430165838.png",
     "docs/attachments/Pasted image 20240430165759.png",
     "docs/attachments/HighresScreenshot00012.png",
