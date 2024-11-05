@@ -16,7 +16,9 @@
                 "file": "docs/2024-10-03.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-03"
             }
           },
           {
@@ -25,14 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-10-03.md",
+                "file": "docs/2024-10-26.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-26"
+            }
+          },
+          {
+            "id": "846f0ee00a0da544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/2024-11-07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-07"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2024-10-03.md",
+                "file": "docs/2024-11-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-11-07"
             }
           },
           {
@@ -115,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2024-10-03.md",
+                "file": "docs/2024-11-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-07"
             }
           },
           {
@@ -129,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2024-10-03.md"
-              }
+                "file": "docs/2024-11-07.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-07"
             }
           }
         ]
@@ -159,21 +191,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c44ca50780547918",
+  "active": "846f0ee00a0da544",
   "lastOpenFiles": [
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE870D72C40FFDA0130B28AB978FD6A7B.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings418170E7431F033054F31E813211DB8C.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings9905334A4DEDCD6BAA49B0997CE16B5D.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsD3DF1DE0425830EFCB4807815DDA782D.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings41D1B73E40B59E0BCF9AFC8F056D53E9.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings14FCE6F14E27476699F800B21A5323F3.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings1698F8134843E0685EB058B2D85F4622.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsCE07F87D4FB1A7E2B129EE8AF2F88750.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsD75DDAAB45F0897D42C032B944A0F05B.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings3CE2E42D407E4A1F7E4CD3B9B6400166.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings3FF2DA0D4801FA660F07F1B49E7DE911.tmp",
-    "docs/2024-10-18.md",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsEDE8654543099140A188C78EA010EC02.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsD8F9DE4241C08739A3BF4A8C52D4C191.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE62E39A349BE67B21B476A9CD37AA20A.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsD505EEB64B4994273B41A3AA56EFC959.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings4E738EE24835815D53DDEAABBA7EE9A8.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsAE3315D149ABE783C1BBFD949588F534.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsA9C7310348AA974E98EA9DA34CEC1FF2.tmp",
+    "soundgarden_unreal/Saved/BP_RhythmGrid2A6D3BCD48B6AF4B14262999A4E088B2.tmp",
+    "soundgarden_unreal/Saved/BP_RhythmGrid7AA91BF6444FD1D5FBB6B1999F58B80E.tmp",
+    "soundgarden_unreal/Saved/BP_RhythmGrid44237207484B355FE35B2DB8B00B85C9.tmp",
+    "soundgarden_unreal/Saved/BP_RhythmGrid6566941A41D0F4279AE45E9FAE5F19FF.tmp",
+    "docs/2024-10-26.md",
+    "docs/2024-11-07.md",
     "docs/2024-10-03.md",
+    "docs/2024-10-18.md",
     "docs/2024-06-07.md",
     "docs/2024-04-16.md",
     "docs/2024-04-04.md",
@@ -199,8 +233,6 @@
     "docs/Sound_Overview.md",
     "docs/Sound_Parrots.md",
     "docs/Sound_Percussion.md",
-    "docs/Sound_Reverb.md",
-    "docs/Sound_Trees.md",
     "docs/attachments/Pasted image 20240430165838.png",
     "docs/attachments/Pasted image 20240430165759.png",
     "docs/attachments/HighresScreenshot00012.png",
