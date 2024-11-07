@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-11-07.md",
+                "file": "docs/2024-10-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-07"
+              "title": "2024-10-26"
             }
           }
         ],
@@ -193,19 +193,19 @@
   },
   "active": "846f0ee00a0da544",
   "lastOpenFiles": [
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsEDE8654543099140A188C78EA010EC02.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsD8F9DE4241C08739A3BF4A8C52D4C191.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE62E39A349BE67B21B476A9CD37AA20A.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsD505EEB64B4994273B41A3AA56EFC959.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings4E738EE24835815D53DDEAABBA7EE9A8.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsAE3315D149ABE783C1BBFD949588F534.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsA9C7310348AA974E98EA9DA34CEC1FF2.tmp",
-    "soundgarden_unreal/Saved/BP_RhythmGrid2A6D3BCD48B6AF4B14262999A4E088B2.tmp",
-    "soundgarden_unreal/Saved/BP_RhythmGrid7AA91BF6444FD1D5FBB6B1999F58B80E.tmp",
-    "soundgarden_unreal/Saved/BP_RhythmGrid44237207484B355FE35B2DB8B00B85C9.tmp",
-    "soundgarden_unreal/Saved/BP_RhythmGrid6566941A41D0F4279AE45E9FAE5F19FF.tmp",
-    "docs/2024-10-26.md",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings7F7A8EE441FE1241EE2CE0A4DF791B93.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings24EF59CE4CF3092B398A8198626953F9.tmp",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Extras/Redist/en-us",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Extras/Redist",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Extras",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Content/Slate/Cursor/invisible.cur",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Content/Slate/Cursor",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Content/Renderer/TessellationTable.bin",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Content/Slate",
+    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Content/Renderer",
     "docs/2024-11-07.md",
+    "docs/2024-10-26.md",
     "docs/2024-10-03.md",
     "docs/2024-10-18.md",
     "docs/2024-06-07.md",
