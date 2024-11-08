@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f7a76a91965c3fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/2024-10-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-03"
-            }
-          },
-          {
-            "id": "c44ca50780547918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/2024-10-26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-26"
-            }
-          },
-          {
             "id": "846f0ee00a0da544",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-10-26.md",
+                "file": "docs/2024-11-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-26"
+              "title": "2024-11-07"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,30 +164,32 @@
   },
   "active": "846f0ee00a0da544",
   "lastOpenFiles": [
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings7F7A8EE441FE1241EE2CE0A4DF791B93.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings24EF59CE4CF3092B398A8198626953F9.tmp",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Extras/Redist/en-us",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Extras/Redist",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Extras",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Content/Slate/Cursor/invisible.cur",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Content/Slate/Cursor",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Content/Renderer/TessellationTable.bin",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Content/Slate",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Content/Renderer",
-    "docs/2024-11-07.md",
-    "docs/2024-10-26.md",
-    "docs/2024-10-03.md",
-    "docs/2024-10-18.md",
-    "docs/2024-06-07.md",
-    "docs/2024-04-16.md",
     "docs/2024-04-04.md",
+    "docs/2024-04-16.md",
+    "docs/2024-06-07.md",
+    "docs/2024-10-03.md",
+    "docs/2024-10-26.md",
+    "docs/2024-11-07.md",
+    "docs/2024-02-28.md",
     "docs/index.md",
+    "docs/attachments/soundgarden0.gif",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-00006634-2024-11-08T12.57.03.767Z.log",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings387DC64146CBBA9D0AA7C5B6BD824305.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings7B43D4F846778FEA50F81B88F88FFB29.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings880E72AB4446D707479A64A9E395B841.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings196AC738453C779A9A2D22AA939939C1.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsC502F2CE4385607D55A2028BB930EC22.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE2BE61034778AE855CD6C48E32CCA86F.tmp",
+    "docs/arc2024-04-31.md",
+    "docs/attachments/Pasted image 20241108122415.png",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings886DF0FE4F15875286748CA7231F6E1E.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings543D679D4E549459613522B921435DC3.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings39CC2B2C4EF27C96AF081AB08E0CE947.tmp",
+    "docs/2024-10-18.md",
     "docs/Ideapad.md",
     "docs/General_information.md",
     "docs/attachments/Pasted image 20241003122428.png",
     "docs/2024-03-13.md",
-    "docs/2024-02-28.md",
     "docs/2024-02-14.md",
     "docs/2024-01-31.md",
     "docs/index 1.md",
@@ -232,12 +205,9 @@
     "docs/Gameplay_Collectable_events.md",
     "docs/Sound_Overview.md",
     "docs/Sound_Parrots.md",
-    "docs/Sound_Percussion.md",
     "docs/attachments/Pasted image 20240430165838.png",
     "docs/attachments/Pasted image 20240430165759.png",
     "docs/attachments/HighresScreenshot00012.png",
-    "docs/attachments/Pasted image 20240430165027.png",
-    "docs/attachments/Pasted image 20240430163607.png",
-    "docs/attachments/Pasted image 20240430161418.png"
+    "docs/attachments/Pasted image 20240430165027.png"
   ]
 }
