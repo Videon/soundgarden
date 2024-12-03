@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "2024-11-18"
             }
+          },
+          {
+            "id": "2f07238cefeb924f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/2024-12-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-04"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,28 +205,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32358f40b732d17f",
+  "active": "2f07238cefeb924f",
   "lastOpenFiles": [
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsD548357345A3BC5BC73D4B9075473E7B.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings612C6042432F85CBBC6F6CBDA8C18B56.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings0426CC274B02014EE5786FB1DE2E78B0.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings3EB87AF14FC12C445875EF83C3C5E8F1.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings749085C04C8F8A2330C9B98316CD94C7.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsF589AC824ADC7456FC739BB92E475E7F.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsB82010EC4EAA89EE1761818A947C1576.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings341952BA4BE526620A80769AAF3A0F0F.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings8BCFD38D4D63E1B6C935BEA5DB16F951.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsA8CB76E14EE687FBA68AB380C852D43E.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsA6E6C50A450D12B488008BACE472DF00.tmp",
-    "docs/2024-11-07.md",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsEFC0901B4FD051E83A5D31A1402DB2EA.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsC8CEBB9643742396A5874FA5D0DB7512.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings4EE997764E1D43244D9229BFA7220355.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings4E0AEF8044812AEC4A406992BFE7253B.tmp",
+    "soundgarden_unreal/Saved/WWNXDUF5FZRQI16YF6HINV856A45624E8C10B33671C883A692EB0B.tmp",
+    "soundgarden_unreal/Intermediate/AssetRegistryCache/353e9726.bin",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/WorldPartitionMiniMapBuilder-00001c6c-2024-12-02T20.09.01.202Z.log",
+    "soundgarden_unreal/Saved/Config/CrashReportClient/UECC-Windows-F8CAD8C9428E40F30F11498E88AE71C5/CrashReportClient.ini",
+    "soundgarden_unreal/Saved/Config/CrashReportClient/UECC-Windows-F8CAD8C9428E40F30F11498E88AE71C5",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings9B01AE224BF471C02A59ADADB4B3BFDA.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings1D0868C440DDBCDBC9F760AB857722D8.tmp",
     "docs/2024-11-18.md",
+    "docs/2024-11-07.md",
+    "docs/2024-10-26.md",
+    "docs/2024-12-04.md",
+    "docs/index.md",
     "docs/2024-04-04.md",
     "docs/2024-04-16.md",
     "docs/2024-06-07.md",
     "docs/2024-10-03.md",
-    "docs/2024-10-26.md",
     "docs/2024-02-28.md",
-    "docs/index.md",
     "docs/attachments/soundgarden0.gif",
     "docs/arc2024-04-31.md",
     "docs/attachments/Pasted image 20241108122415.png",
@@ -234,7 +249,6 @@
     "docs/Ecology_Ambience_activity.md",
     "docs/Gameplay_Collectables.md",
     "docs/Gameplay_Collectable_events.md",
-    "docs/Sound_Overview.md",
     "docs/attachments/Pasted image 20240430165838.png",
     "docs/attachments/Pasted image 20240430165759.png",
     "docs/attachments/HighresScreenshot00012.png",
