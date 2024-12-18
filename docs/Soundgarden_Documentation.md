@@ -29,8 +29,8 @@
 
 **Island 2 - Sound-led interactions**
 1. [Island_2_Wind_Path](Island_2_Wind_Path.md)
-2. [Island_2_Sound Gates](Island_2_Sound%20Gates.md)
-3. [Island_2_Rhythm Grid](Island_2_Rhythm%20Grid.md)
+2. [Island_2_Sound_Gates](Island_2_Sound_Gates.md)
+3. [Island_2_Rhythm_Grid](Island_2_Rhythm_Grid.md)
 4. TBD
 5. TBD
 
