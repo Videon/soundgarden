@@ -17,20 +17,20 @@
 	3. [Percussion](Sound_Percussion.md)
 	4. [Kait](Sound_Kait.md)
 	5. [Gamelan](Sound_Gamelan.md)
-	6. [Ocean_and_Bass](Sound_Ocean_and_Bass.md)
+	6. [Ocean and Bass](Sound_Ocean_and_Bass.md)
 	7. [Frogs](Sound_Frogs.md)
 	8. [Parrots](Sound_Parrots.md)
 	9. [Wind](Sound_Wind.md)
 	10. [Trees](Sound_Trees.md)
 	11. [Footsteps](Sound_Footsteps.md)
-	12. [Sound_Attenuation](Sound_Attenuation.md)
+	12. [Sound Attenuation](Sound_Attenuation.md)
 	13. [Reverb](Sound_Reverb.md)
 
 
 **Island 2 - Sound-led interactions**
-1. [Island_2_Wind_Path](Island_2_Wind_Path.md)
-2. [Island_2_Sound_Gates](Island_2_Sound_Gates.md)
-3. [Island_2_Rhythm_Grid](Island_2_Rhythm_Grid.md)
+1. [Wind_Path](Island_2_Wind_Path.md)
+2. [Sound Gates](Island_2_Sound_Gates.md)
+3. [Rhythm Grid](Island_2_Rhythm_Grid.md)
 4. TBD
 5. TBD
 
