@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-12-16.md",
+                "file": "docs/Island_2_Wind_Path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-16"
+              "title": "Island_2_Wind_Path"
             }
           },
           {
@@ -192,9 +192,11 @@
   },
   "active": "8815d796236353f5",
   "lastOpenFiles": [
-    "docs/2024-11-18.md",
-    "docs/2024-12-16.md",
     "docs/Island_2_Sound Gates.md",
+    "docs/Island_2_Rhythm Grid.md",
+    "docs/Gameplay_Map.md",
+    "docs/2024-12-16.md",
+    "docs/2024-11-18.md",
     "docs/2024-10-03.md",
     "docs/Island_2_Wind_Path.md",
     "docs/attachments/Pasted image 20241218162324.png",
@@ -211,10 +213,8 @@
     "soundgarden_unreal/Saved/EditorPerProjectUserSettingsAA8D906A4D665C115E811484CEE3BFC3.tmp",
     "docs/attachments/Pasted image 20241218162100.png",
     "docs/attachments/Pasted image 20241218162022.png",
-    "docs/Island_2_Rhythm Grid.md",
     "docs/Sound_Frogs.md",
     "docs/Procedural Music System.md",
-    "docs/Gameplay_Map.md",
     "docs/Gameplay_Tutorial.md",
     "docs/Gameplay_Game_controller.md",
     "docs/Gameplay_Gameplay_loop.md",

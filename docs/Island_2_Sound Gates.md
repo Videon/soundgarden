@@ -1,4 +1,4 @@
-[Back to main](index.html)
+[Back to index](Soundgarden_Documentation.md)
 
 # Sound Gates
 
