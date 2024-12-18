@@ -5,7 +5,7 @@
 
 **Repository**
 
-[Videon/soundgarden: Self-directed research project Winter 2024 (github.com)](https://github.com/Videon/soundgarden)
+[Full project repository on GitHub)](https://github.com/Videon/soundgarden)
 
 
 **Documentation**
@@ -26,7 +26,8 @@
 - [2024-10-26](2024-10-26.md)
 - [2024-11-07](2024-11-07.md)
 - [2024-11-18](2024-11-18.md)
-- 
+- [2024-12-04](2024-12-04.md)
+- [2024-12-16](2024-12-16.md)
 
 
 **Playlist**

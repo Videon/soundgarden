@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-11-07.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-07"
-            }
-          },
-          {
-            "id": "9f56b371ee28d045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "docs/2024-11-18.md",
                 "mode": "source",
                 "source": false
@@ -36,35 +22,21 @@
             }
           },
           {
-            "id": "32358f40b732d17f",
+            "id": "8815d796236353f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-11-18.md",
+                "file": "docs/2024-12-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-18"
-            }
-          },
-          {
-            "id": "2f07238cefeb924f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/2024-12-04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-04"
+              "title": "2024-12-16"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,29 +177,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f07238cefeb924f",
+  "active": "8815d796236353f5",
   "lastOpenFiles": [
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings9EAF0910434EFD5D2F0E32B632392458.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings3BC7551845504E325E8D1897BC0831C1.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings53885BFC4EF510493FD7E691EABAE0DF.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsCCAC4524447B749CCA45CB9A8E5C6596.tmp",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll",
-    "soundgarden_unreal/Saved/StagedBuilds/Windows/Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64",
-    "docs/2024-11-18.md",
-    "docs/2024-11-07.md",
+    "soundgarden_unreal/Content/Gameplay/RhythmGridElement.uasset",
+    "soundgarden_unreal/Content/Gameplay/RhythmGrid/Ticks.uasset",
+    "soundgarden_unreal/Content/Gameplay/RhythmGrid/ENUM_RhythmGridElementState.uasset",
+    "soundgarden_unreal/Content/Gameplay/ENUM_RhythmGridElementState.uasset",
+    "soundgarden_unreal/Content/__ExternalObjects__/Maps/garden2/C/3U/Y2EWOK9MNJ097HKL7JKLYV.uasset",
+    "soundgarden_unreal/Content/__ExternalObjects__/Maps/garden2/C/3U",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/4/PV/4FOZMACZ24RQLLD8JA3LW3.uasset",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/4/PV",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsBBB0E1854780C2A054C1AAB0E786A38C.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings8737746F4A4C5E522644FBA46F752376.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings45D8DDE9486591F028830DAAE4491AFC.tmp",
+    "docs/2024-06-07.md",
+    "docs/2024-04-16.md",
+    "docs/2024-10-03.md",
     "docs/2024-10-26.md",
+    "docs/2024-12-16.md",
+    "docs/2024-11-18.md",
     "docs/2024-12-04.md",
     "docs/index.md",
+    "docs/2024-02-14.md",
+    "docs/2024-01-31.md",
+    "docs/2024-11-07.md",
     "docs/2024-04-04.md",
-    "docs/2024-04-16.md",
-    "docs/2024-06-07.md",
-    "docs/2024-10-03.md",
+    "docs/2024-03-13.md",
     "docs/2024-02-28.md",
+    "docs/attachments/Pasted image 20241216132457.png",
+    "docs/attachments/island_2_layout.png",
+    "visuals/island_2_layout.png",
+    "docs/attachments/Pasted image 20241216123908.png",
+    "docs/arc2024-04-18.md",
     "docs/attachments/soundgarden0.gif",
     "docs/arc2024-04-31.md",
     "docs/attachments/Pasted image 20241108122415.png",
@@ -235,9 +216,6 @@
     "docs/Ideapad.md",
     "docs/General_information.md",
     "docs/attachments/Pasted image 20241003122428.png",
-    "docs/2024-03-13.md",
-    "docs/2024-02-14.md",
-    "docs/2024-01-31.md",
     "docs/index 1.md",
     "README.md",
     "docs/arc2024-04-30.md",
@@ -246,12 +224,6 @@
     "docs/attachments/Pasted image 20240609102221.png",
     "docs/Soundgarden_Documentation.md",
     "docs/Sound_Attenuation.md",
-    "docs/Ecology_Ambience_activity.md",
-    "docs/Gameplay_Collectables.md",
-    "docs/Gameplay_Collectable_events.md",
-    "docs/attachments/Pasted image 20240430165838.png",
-    "docs/attachments/Pasted image 20240430165759.png",
-    "docs/attachments/HighresScreenshot00012.png",
-    "docs/attachments/Pasted image 20240430165027.png"
+    "docs/Ecology_Ambience_activity.md"
   ]
 }
