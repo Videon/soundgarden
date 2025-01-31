@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Soundgarden_Documentation.md",
+                "file": "docs/2024-12-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soundgarden_Documentation"
+              "title": "2024-12-16"
+            }
+          },
+          {
+            "id": "668d8a4e1e1f4571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-01-30"
             }
           },
           {
@@ -49,7 +63,8 @@
               "title": "Island_2_Sound Gates"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,28 +205,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8815d796236353f5",
+  "active": "668d8a4e1e1f4571",
   "lastOpenFiles": [
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings40828D6142A8B69E108D7BA326E4FDE7.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings7C10BA3B48CFA882650C51810B748DA4.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings64A4798C465816843224A4BBF258B194.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsD7DED284421D0314BE7ACF825D7AE289.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings757B17CF444C7B6582DA5699C0C5219F.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsC35FAA20409C04A789D8248D0F89366A.tmp",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-000001c0-2025-01-22T01.02.19.195Z.log",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsF38BB54B484537648A2EEEB7575F10ED.tmp",
+    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-000001c0-2025-01-22T01.01.51.048Z.log",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE3C73A4445B4140250EA93B376EE51BC.tmp",
+    "soundgarden_unreal/Saved/BP_FirstPersonCharacter582D6AA441CB818BFC273FB051FFC5FE.tmp",
+    "docs/2024-12-16.md",
+    "2024-01-30.md",
+    "docs/Soundgarden_Documentation.md",
     "docs/Island_2_Sound_Gates.md",
     "docs/Island_2_Rhythm_Grid.md",
     "docs/Island_2_Wind_Path.md",
-    "docs/Soundgarden_Documentation.md",
     "docs/Gameplay_Map.md",
-    "docs/2024-12-16.md",
     "docs/2024-11-18.md",
     "docs/2024-10-03.md",
     "docs/attachments/Pasted image 20241218162324.png",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsB6A91373413691DC7832699EA96BE9F3.tmp",
-    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-00001408-2024-12-18T16.22.54.564Z.log",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsB04D19224F6F21C3E2F8449CF0704360.tmp",
     "docs/attachments/Pasted image 20241218162233.png",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsA91F6C65437AFD8B916CD3B9BC4A21C8.tmp",
-    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-00001408-2024-12-18T16.21.46.822Z.log",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings2751BDA2444C7B895FD591861B65A486.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE0CCCC724072FD6B7A11578CB85B4711.tmp",
-    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-00001408-2024-12-18T16.21.16.582Z.log",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsB66876DC40E3313955187ABFDD49C697.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsAA8D906A4D665C115E811484CEE3BFC3.tmp",
     "docs/attachments/Pasted image 20241218162100.png",
     "docs/attachments/Pasted image 20241218162022.png",
     "docs/Sound_Frogs.md",
@@ -230,7 +247,6 @@
     "docs/2024-04-16.md",
     "docs/2024-02-14.md",
     "docs/2024-01-31.md",
-    "docs/2024-04-04.md",
     "docs/attachments/Pasted image 20241216132457.png",
     "docs/attachments/island_2_layout.png",
     "visuals/island_2_layout.png",
