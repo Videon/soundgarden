@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "docs/2025-01-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-30"
+            }
+          },
+          {
+            "id": "7cd11a58a7c1ddb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "docs/2024-12-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2024-12-16"
-            }
-          },
-          {
-            "id": "668d8a4e1e1f4571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-01-30.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-01-30"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Island_2_Sound Gates"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +82,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -205,21 +205,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "668d8a4e1e1f4571",
+  "active": "8815d796236353f5",
   "lastOpenFiles": [
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings40828D6142A8B69E108D7BA326E4FDE7.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings7C10BA3B48CFA882650C51810B748DA4.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings64A4798C465816843224A4BBF258B194.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsD7DED284421D0314BE7ACF825D7AE289.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings757B17CF444C7B6582DA5699C0C5219F.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsC35FAA20409C04A789D8248D0F89366A.tmp",
-    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-000001c0-2025-01-22T01.02.19.195Z.log",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsF38BB54B484537648A2EEEB7575F10ED.tmp",
-    "soundgarden_unreal/Saved/Logs/WorldPartition/StreamingGeneration-PIE_garden2-000001c0-2025-01-22T01.01.51.048Z.log",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsE3C73A4445B4140250EA93B376EE51BC.tmp",
-    "soundgarden_unreal/Saved/BP_FirstPersonCharacter582D6AA441CB818BFC273FB051FFC5FE.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings78D4E4184B85C70AF0A5C6B344AD6F56.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings7E253C564FD161FA9B0247AA1DD6FCE3.tmp",
+    "soundgarden_unreal/Intermediate/CachedAssetRegistry_0.bin.tmp",
+    "soundgarden_unreal/Intermediate/TurnkeyReport_1.log",
+    "soundgarden_unreal/Intermediate/TurnkeyReport_0.log",
+    "soundgarden_unreal/Intermediate/DatasmithContentTemp",
+    "soundgarden_unreal/Saved/Logs/soundgarden-backup-2025.02.14-17.56.17.log",
+    "soundgarden_unreal/Saved/Config/CrashReportClient/UECC-Windows-6B40F4CA4D77C62B262E9089174CEF5C/CrashReportClient.ini",
+    "soundgarden_unreal/Saved/Config/CrashReportClient/UECC-Windows-6B40F4CA4D77C62B262E9089174CEF5C",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings4D0F112E46F4375895F01BAFE8DCAFB4.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings0715CFA24522CD33A69A6E981009BA7C.tmp",
     "docs/2024-12-16.md",
-    "2024-01-30.md",
+    "docs/2025-01-30.md",
+    "docs/2024-01-31.md",
     "docs/Soundgarden_Documentation.md",
     "docs/Island_2_Sound_Gates.md",
     "docs/Island_2_Rhythm_Grid.md",
@@ -246,7 +247,6 @@
     "docs/2024-06-07.md",
     "docs/2024-04-16.md",
     "docs/2024-02-14.md",
-    "docs/2024-01-31.md",
     "docs/attachments/Pasted image 20241216132457.png",
     "docs/attachments/island_2_layout.png",
     "visuals/island_2_layout.png",
