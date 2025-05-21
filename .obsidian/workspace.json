@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Gameplay_Tutorial.md",
+                "file": "docs/2024-01-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gameplay_Tutorial"
+              "title": "2024-01-31"
+            }
+          },
+          {
+            "id": "7d637e6d9da12d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Attributions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Attributions"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,11 +192,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2692296802c5dec0",
+  "active": "7d637e6d9da12d55",
   "lastOpenFiles": [
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings75A2C37243796B79FB17F3B4F14CEB3E.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings75926AD64538B5EFD9CC51927CB497CC.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsC5FBBA6C4C1B1E88DED66B95205F0BC1.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsFF893F1249400391E9B3C082B97C8779.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings665BF9E746E2025CB0570EB0E2AE71D9.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings4874DD0044D23FF9569F9595630CD540.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings1BF39B93499EC960EE1078986F47AB09.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings3617A2314CE9B8ABF18537A817FD77C4.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings85C30EFB45B6BA3A78C3458923A39DCA.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsA906ABD24A04DD403483B5AE0A796C71.tmp",
+    "soundgarden_unreal/Saved/EditorPerProjectUserSettings6FD16455498730417295C28BC9666FA7.tmp",
+    "docs/2024-01-31.md",
+    "docs/Attributions.md",
+    "docs/Gameplay_Tutorial.md",
     "docs/Soundgarden_Documentation.md",
     "docs/index.md",
-    "docs/2024-01-31.md",
     "docs/2025-02-21.md",
     "docs/2025-02-28.md",
     "docs/2024-11-07.md",
@@ -197,16 +224,6 @@
     "docs/2024-03-13.md",
     "docs/2024-02-28.md",
     "docs/2024-10-26.md",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings44AFBD6E470CD623AABD6AB80999C097.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsACBA334D4757A0BE706D1DB68FC1A53F.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings0291B1D14FD405B34E644AB313816946.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsF17B36224CDF70B8C4A94A8BADE80CDA.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings512895324D88987028312791C84ED014.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsD035FD00400525B2B3770680460E95C6.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsD4ABE4E34D9DD0D93C8F7AA0EFFBD4CC.tmp",
-    "soundgarden_unreal/Intermediate/CachedAssetRegistry_0.bin.tmp",
-    "soundgarden_unreal/Saved/EditorSettings006A425F411064387C90798E2FB28CC3.tmp",
-    "soundgarden_unreal/Intermediate/TurnkeyReport_1.log",
     "docs/Island_2_Sound_Gates.md",
     "docs/Island_2_Rhythm_Grid.md",
     "docs/Island_2_Wind_Path.md",
@@ -217,9 +234,6 @@
     "docs/attachments/Pasted image 20241218162022.png",
     "docs/Sound_Frogs.md",
     "docs/Procedural Music System.md",
-    "docs/Gameplay_Tutorial.md",
-    "docs/Gameplay_Game_controller.md",
-    "docs/Gameplay_Gameplay_loop.md",
     "docs/attachments/Pasted image 20241216132457.png",
     "docs/attachments/island_2_layout.png",
     "visuals/island_2_layout.png",
