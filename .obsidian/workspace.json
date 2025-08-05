@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2025-07-23.md",
+                "file": "docs/2025-08-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-23"
+              "title": "2025-08-05"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,21 +165,28 @@
   },
   "active": "7d637e6d9da12d55",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/2025-08-05.md",
+    "docs/2024-12-16.md",
     "docs/2025-02-21.md",
-    "docs/2025-07-23.md",
-    "docs/2024-03-13.md",
+    "docs/attachments/soundgarden3.gif",
+    "docs/attachments/soundgarden2.gif",
+    "docs/arc2024-04-18.md",
+    "docs/2024-11-07.md",
+    "docs/2024-11-18.md",
     "docs/2024-10-26.md",
-    "docs/2024-10-03.md",
-    "docs/2024-06-07.md",
+    "docs/attachments/soundgarden1.gif",
+    "docs/2024-12-04.md",
+    "docs/2024-01-31.md",
+    "docs/2024-02-14.md",
     "docs/2024-02-28.md",
+    "docs/2024-03-13.md",
     "docs/2024-04-04.md",
     "docs/2024-04-16.md",
-    "docs/2024-12-16.md",
-    "docs/2024-12-04.md",
-    "docs/2024-11-18.md",
-    "docs/2024-11-07.md",
-    "docs/2024-02-14.md",
-    "docs/2024-01-31.md",
+    "docs/2024-06-07.md",
+    "docs/2024-10-03.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "docs/Attributions.md",
     "soundgarden_unreal/Saved/EditorPerProjectUserSettings75A2C37243796B79FB17F3B4F14CEB3E.tmp",
     "soundgarden_unreal/Saved/EditorPerProjectUserSettings75926AD64538B5EFD9CC51927CB497CC.tmp",
@@ -192,22 +200,15 @@
     "soundgarden_unreal/Saved/EditorPerProjectUserSettingsA906ABD24A04DD403483B5AE0A796C71.tmp",
     "docs/Gameplay_Tutorial.md",
     "docs/Soundgarden_Documentation.md",
-    "docs/index.md",
     "docs/Island_2_Sound_Gates.md",
     "docs/Island_2_Rhythm_Grid.md",
     "docs/Island_2_Wind_Path.md",
-    "docs/Gameplay_Map.md",
     "docs/attachments/Pasted image 20241218162324.png",
     "docs/attachments/Pasted image 20241218162233.png",
     "docs/attachments/Pasted image 20241218162100.png",
     "docs/attachments/Pasted image 20241218162022.png",
-    "docs/Sound_Frogs.md",
-    "docs/Procedural Music System.md",
     "docs/attachments/Pasted image 20241216132457.png",
     "docs/attachments/island_2_layout.png",
-    "visuals/island_2_layout.png",
-    "docs/attachments/Pasted image 20241216123908.png",
-    "docs/attachments/soundgarden0.gif",
-    "docs/attachments/Pasted image 20241108122415.png"
+    "visuals/island_2_layout.png"
   ]
 }
