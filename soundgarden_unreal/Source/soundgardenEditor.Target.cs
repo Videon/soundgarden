@@ -8,7 +8,7 @@ public class soundgardenEditorTarget : TargetRules
 	public soundgardenEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V5;
+		DefaultBuildSettings = BuildSettingsVersion.Latest;
 
 		ExtraModuleNames.AddRange( new string[] { "soundgarden" } );
 	}

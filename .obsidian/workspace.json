@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d637e6d9da12d55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/2025-08-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-05"
-            }
-          },
-          {
-            "id": "df0e4d5385895bb7",
+            "id": "8815d796236353f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "2025-02-21"
+            }
+          },
+          {
+            "id": "2692296802c5dec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/2025-08-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-05"
             }
           }
         ],
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,30 +179,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df0e4d5385895bb7",
+  "active": "2692296802c5dec0",
   "lastOpenFiles": [
-    "docs/2025-08-05.md",
+    "docs/2025-09-23.md",
     "docs/2025-02-21.md",
-    "docs/index.md",
-    "docs/2024-12-16.md",
-    "docs/attachments/soundgarden3.gif",
-    "docs/attachments/soundgarden2.gif",
-    "docs/arc2024-04-18.md",
-    "docs/2024-11-07.md",
-    "docs/2024-11-18.md",
-    "docs/2024-10-26.md",
-    "docs/attachments/soundgarden1.gif",
-    "docs/2024-12-04.md",
+    "docs/2025-08-05.md",
     "docs/2024-01-31.md",
-    "docs/2024-02-14.md",
-    "docs/2024-02-28.md",
-    "docs/2024-03-13.md",
-    "docs/2024-04-04.md",
-    "docs/2024-04-16.md",
-    "docs/2024-06-07.md",
-    "docs/2024-10-03.md",
+    "soundgarden_unreal/Content/__ExternalActors__/Maps/garden2/0/B1/TY1MELJEMGX0NO6E7QCS5W.uasset",
+    "docs/attachments/soundgarden3.gif",
+    "docs/2025-07-23.md",
+    "docs/attachments/soundgarden2.gif",
+    "docs/attachments/soundgarden1.gif",
+    "_layouts/default.html",
+    "_layouts",
+    "LICENSE",
+    "README.md",
     "Untitled.md",
-    "Untitled 1.md",
     "docs/Attributions.md",
     "soundgarden_unreal/Saved/EditorPerProjectUserSettings75A2C37243796B79FB17F3B4F14CEB3E.tmp",
     "soundgarden_unreal/Saved/EditorPerProjectUserSettings75926AD64538B5EFD9CC51927CB497CC.tmp",
@@ -209,15 +202,23 @@
     "soundgarden_unreal/Saved/EditorPerProjectUserSettingsFF893F1249400391E9B3C082B97C8779.tmp",
     "soundgarden_unreal/Saved/EditorPerProjectUserSettings665BF9E746E2025CB0570EB0E2AE71D9.tmp",
     "soundgarden_unreal/Saved/EditorPerProjectUserSettings4874DD0044D23FF9569F9595630CD540.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings1BF39B93499EC960EE1078986F47AB09.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings3617A2314CE9B8ABF18537A817FD77C4.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettings85C30EFB45B6BA3A78C3458923A39DCA.tmp",
-    "soundgarden_unreal/Saved/EditorPerProjectUserSettingsA906ABD24A04DD403483B5AE0A796C71.tmp",
     "docs/Gameplay_Tutorial.md",
     "docs/Soundgarden_Documentation.md",
+    "docs/index.md",
+    "docs/2025-02-28.md",
+    "docs/2024-11-07.md",
+    "docs/2024-11-18.md",
+    "docs/2024-12-04.md",
+    "docs/2024-12-16.md",
+    "docs/2024-02-14.md",
+    "docs/2024-10-03.md",
+    "docs/2024-06-07.md",
+    "docs/2024-04-16.md",
+    "docs/2024-04-04.md",
+    "docs/2024-03-13.md",
+    "docs/2024-02-28.md",
+    "docs/2024-10-26.md",
     "docs/Island_2_Sound_Gates.md",
-    "docs/Island_2_Rhythm_Grid.md",
-    "docs/Island_2_Wind_Path.md",
     "docs/attachments/Pasted image 20241218162324.png",
     "docs/attachments/Pasted image 20241218162233.png",
     "docs/attachments/Pasted image 20241218162100.png",
